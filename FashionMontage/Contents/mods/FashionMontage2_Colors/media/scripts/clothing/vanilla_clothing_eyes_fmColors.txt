@@ -1,3 +1,11 @@
 module Base {
-
+item Glasses {Type = Clothing,DisplayName = Reflective Sunglasses,ClothingItem = Glasses,BodyLocation = Eyes,Icon = Glasses,Weight = 0.1,ChanceToFall = 50,}
+item Glasses_Aviators {Type = Clothing,DisplayName = Aviator Glasses,ClothingItem = Glasses_Aviators,BodyLocation = Eyes,Icon = GlassesAviator,Weight = 0.1,ChanceToFall = 50,}
+item Glasses_Normal {Type = Clothing,DisplayName = Glasses,ClothingItem = Glasses_Normal,BodyLocation = Eyes,IconsForTexture = GlassesBlack;GlassesBlue;GlassesRed,Weight = 0.1,ChanceToFall = 50,}
+item Glasses_Reading {Type = Clothing,DisplayName = Reading Glasses,ClothingItem = Glasses_Reading,BodyLocation = Eyes,IconsForTexture = GlassesReading;GlassesReading;GlassesReading,Weight = 0.1,ChanceToFall = 50,}
+item Glasses_SafetyGoggles {Type = Clothing,DisplayName = Safety Goggles,ClothingItem = Glasses_SafetyGoggles,BodyLocation = Eyes,Icon = SafetyGoggles,Weight = 0.1,ChanceToFall = 20,}
+item Glasses_Shooting {Type = Clothing,DisplayName = Shooting Glasses,ClothingItem = Glasses_Shooting,BodyLocation = Eyes,Icon = ShootingGlasses,Weight = 0.1,ChanceToFall = 20,}
+item Glasses_SkiGoggles {Type = Clothing,DisplayName = Ski Goggles,ClothingItem = Glasses_SkiGoggles,BodyLocation = Eyes,IconsForTexture = SkiGogglesBlack;SkiGogglesWhite,Weight = 0.1,ChanceToFall = 20,}
+item Glasses_Sun {Type = Clothing,DisplayName = Sunglasses,ClothingItem = Glasses_Sun,BodyLocation = Eyes,Icon = GlassesSun,Weight = 0.1,ChanceToFall = 50,}
+item Glasses_SwimmingGoggles {Type = Clothing,DisplayName = Swimming Goggles,ClothingItem = Glasses_SwimmingGoggles,BodyLocation = Eyes,Icon = SwimmingGoggles,Weight = 0.1,ChanceToFall = 30,}
 }
