@@ -3,6 +3,13 @@
   	<m_GUID>693e7c35-9616-4326-9ddd-5331404f8ba3</m_GUID>
     zed type is never used (Waiter_TachoDelPancho)
 
+  Tattoos:
+    ec2b8d6a-323b-4264-abe6-7499fa1cf01e
+    c256dda6-a3a1-4806-9410-a8e9569c9a37
+
+  Test_Weapon - not anywhere in the code
+    cbdb4e53-695e-42ff-b602-e5d19bb4d630
+
   Leg Warmers Don't Appear Anywhere
     <m_GUID>aaf3194d-6e6f-454f-a690-cbca734165bc</m_GUID>
 
@@ -79,19 +86,41 @@
     red: <m_GUID>e525cc52-cf30-45df-adc7-19706c019673</m_GUID>
     yellow: <m_GUID>2587e4f8-1e7f-4793-ad11-dd4b96ea7359</m_GUID>
 
-  Sports Shirts:
-    Either have one item that has many colors as choices, or just have a tinted version
-    blue:
-    green:
-    red:
-    yellow:
 
   Sports Shorts:
-    Either have one item that has many colors as choices, or just have a tinted version
-    blue:
-    green:
-    red:
-    yellow:
+    an exclusive red version is still sitting there:
+    Shorts_LongSport_Red: <m_GUID>5327466b-ef38-4e7b-a7c9-a8b6b1257087</m_GUID>
+
+  Profession Shirts
+    Each profession gets:
+      1. one that has all the 'real' ones under it. The zeds get this one.
+      2. one light decal with palette
+      3. one dark decal with palette
+      (12 GUIDS, 10 currently so need two more)
+
+  Specific Color Trainers:
+    Shoes_RedTrainers <m_GUID>b6bb377a-6b18-407a-8e9f-edf949fb1fe1</m_GUID>
+    Shoes_BlueTrainers <m_BaseTextures>clothes\shoes_socks_textres\trainers_blue</m_BaseTextures>
+
+
+  Specific Colored Baseball Caps:
+      GOOD:
+        Hat_BaseballCap 	<m_GUID>7b339ad5-da2e-42a5-8a51-ee87239a943c</m_GUID>
+        Hat_BaseballCap_Reverse 	<m_GUID>d90d4976-d993-4fae-ad78-f5a4fcf05366</m_GUID>
+        Hat_BaseballCapKY	<m_GUID>b78f9552-1d93-46b7-a42c-6f554ce43e29</m_GUID>
+        Hat_BaseballCapKY_Reverse	<m_GUID>7f5d4c0c-d536-4279-9495-68216def74c2</m_GUID>
+
+      BAD:
+        Hat_BaseballCapBlue	<m_GUID>3db63ccb-9014-45c2-bb9c-287ca24e335b</m_GUID>
+        Hat_BaseballCapBlue_Reverse	<m_GUID>17b078c1-dc3e-4b8f-a3e1-191c9d4efaa8</m_GUID>
+        Hat_BaseballCapGreen	<m_GUID>fce4e0fd-047d-483a-ad43-873e4440c3aa</m_GUID>
+        Hat_BaseballCapGreen_Reverse	<m_GUID>f1766ddb-1fdc-4a4c-b26b-5a5aacb209a2</m_GUID>
+        Hat_BaseballCapRed	<m_GUID>3dff8ffe-20d7-4b9b-80b4-9cfb550c67b6</m_GUID>
+        Hat_BaseballCapRed_Reverse	<m_GUID>92ff40a4-6756-40fc-a453-fb7764df0e23</m_GUID>
+
+      AWFUL (no reverse pair)
+        Hat_BaseballCapKY_Red <m_GUID>ee133478-bfc7-4517-af9b-c9da2148d9fd</m_GUID>
+
 
 --- WOULD NOT BE MISSED ---
   These special bags are pretty rare and wouldn't be missed
@@ -121,6 +150,14 @@
     tshirt_camogreen <m_GUID>cbe793fe-97d9-4585-88e0-bc18be39d714</m_GUID>
     tshirt_camourban <m_GUID>1095daca-6a73-4c65-a4f2-e728ba714175</m_GUID>
 
+  Baseball Stuff
+    shirt_baseball_ky <m_GUID>47dff0a4-907c-4586-84fa-e0f6059adc07</m_GUID>
+    shirt_baseball_rangers  <m_GUID>041a3ab6-6dea-4c1c-b3d4-3cf50ba68565</m_GUID>
+    shirt_baseball_z <m_GUID>99b1a7cb-f0b1-4f36-98c3-6c97b4e0ea9a</m_GUID>
+
+    Hat_BaseballHelmet_KY <m_GUID>ec8fe383-948b-4c65-9dc6-d3af46b17aea</m_GUID>
+    Hat_BaseballHelmet_Rangers  <m_GUID>1e62c95a-def1-4e6a-b632-07f9d2a943fc</m_GUID>
+    Hat_BaseballHelmet_Z <m_GUID>ef1a56bf-f5ce-4568-bcaa-4aaaef093bb9</m_GUID>
 
 
 --- GENERAL IDEAS ---
@@ -128,3 +165,4 @@ Leather Gloves: Turn one of the LeatherGloves*.xml into a colorful one
 Camo Everything: Make one of them green/desert/urban and another crazy. If there is a third, steal its GUID
 Varsity Jacket: Make two items, inverts of each other. One will need a fresh GUID
 Long Leather Coat: All three share one GUID right no so we need a fresh GUID
+Summer Hat: Striped would either need its own item, or maybe a 50/50 decal?
