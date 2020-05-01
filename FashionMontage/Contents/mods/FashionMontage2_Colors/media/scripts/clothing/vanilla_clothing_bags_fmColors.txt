@@ -1,7 +1,5 @@
-module Base
-{
-item Bag_Schoolbag
-{
+module Base {
+item Bag_Schoolbag {
 WeightReduction = 60,
 Weight = 1,
 Type = Container,
@@ -19,8 +17,7 @@ AttachmentReplacement = Bag,
 ReplaceInSecondHand = Bag_Schoolbag_LHand,
 ReplaceInPrimaryHand = Bag_Schoolbag_RHand,
 }
-item Bag_Schoolbag_LHand
-{
+item Bag_Schoolbag_LHand {
 WeightReduction = 60,
 Weight = 1,
 Type = Container,
@@ -40,8 +37,7 @@ secondaryAnimMask = holdingbagleft,
 ReplaceWhenUnequip = Bag_Schoolbag,
 StaticModel = SchoolBag,
 }
-item Bag_Schoolbag_RHand
-{
+item Bag_Schoolbag_RHand {
 WeightReduction = 60,
 Weight = 1,
 Type = Container,
@@ -61,8 +57,7 @@ secondaryAnimMask = holdingbagleft,
 ReplaceWhenUnequip = Bag_Schoolbag,
 StaticModel = SchoolBag,
 }
-item Bag_NormalHikingBag
-{
+item Bag_NormalHikingBag {
 WeightReduction = 70,
 Weight = 1.2,
 Type = Container,
@@ -80,8 +75,7 @@ AttachmentReplacement = Bag,
 ReplaceInSecondHand = Bag_NormalHikingBag_LHand,
 ReplaceInPrimaryHand = Bag_NormalHikingBag_RHand,
 }
-item Bag_NormalHikingBag_LHand
-{
+item Bag_NormalHikingBag_LHand {
 WeightReduction = 70,
 Weight = 1.2,
 Type = Container,
@@ -99,8 +93,7 @@ secondaryAnimMask = holdingbagleft,
 ReplaceWhenUnequip = Bag_NormalHikingBag,
 StaticModel = NormalHikingBag,
 }
-item Bag_NormalHikingBag_RHand
-{
+item Bag_NormalHikingBag_RHand {
 WeightReduction = 70,
 Weight = 1.2,
 Type = Container,
@@ -118,8 +111,7 @@ secondaryAnimMask = holdingbagleft,
 ReplaceWhenUnequip = Bag_NormalHikingBag,
 StaticModel = NormalHikingBag,
 }
-item Bag_BigHikingBag
-{
+item Bag_BigHikingBag {
 WeightReduction = 80,
 Weight = 1.5,
 Type = Container,
@@ -137,8 +129,7 @@ AttachmentReplacement = Bag,
 ReplaceInSecondHand = Bag_BigHikingBag_LHand,
 ReplaceInPrimaryHand = Bag_BigHikingBag_RHand,
 }
-item Bag_BigHikingBag_LHand
-{
+item Bag_BigHikingBag_LHand {
 WeightReduction = 78,
 Weight = 1.5,
 Type = Container,
@@ -156,8 +147,7 @@ secondaryAnimMask = holdingbagleft,
 ReplaceWhenUnequip = Bag_BigHikingBag,
 StaticModel = BigHikingBag,
 }
-item Bag_BigHikingBag_RHand
-{
+item Bag_BigHikingBag_RHand {
 WeightReduction = 78,
 Weight = 1.5,
 Type = Container,
@@ -175,8 +165,7 @@ secondaryAnimMask = holdingbagleft,
 ReplaceWhenUnequip = Bag_BigHikingBag,
 StaticModel = BigHikingBag,
 }
-item Bag_SurvivorBag
-{
+item Bag_SurvivorBag {
 Type = Container,
 DisplayName = Backpack,
 ClothingItem = Bag_SurvivorBag,
@@ -193,8 +182,7 @@ RunSpeedModifier = 0.94,
 CanHaveHoles = false,
 AttachmentReplacement = Bag,
 }
-item Bag_ALICEpack
-{
+item Bag_ALICEpack {
 Type = Container,
 DisplayName = Large Backpack,
 ClothingItem = Bag_ALICEpack,
@@ -213,8 +201,7 @@ AttachmentReplacement = Bag,
 ReplaceInSecondHand = Bag_ALICEpack_LHand,
 ReplaceInPrimaryHand = Bag_ALICEpack_RHand,
 }
-item Bag_ALICEpack_LHand
-{
+item Bag_ALICEpack_LHand {
 Type = Container,
 DisplayName = Large Backpack,
 ClothingItem = Bag_ALICEpack_LHand,
@@ -235,8 +222,7 @@ secondaryAnimMask = holdingbagleft,
 ReplaceWhenUnequip = Bag_ALICEpack,
 StaticModel = Bag_ALICEpack,
 }
-item Bag_ALICEpack_RHand
-{
+item Bag_ALICEpack_RHand {
 Type = Container,
 DisplayName = Large Backpack,
 ClothingItem = Bag_ALICEpack_RHand,
@@ -257,8 +243,7 @@ secondaryAnimMask = holdingbagleft,
 ReplaceWhenUnequip = Bag_ALICEpack,
 StaticModel = Bag_ALICEpack,
 }
-item Bag_ALICEpack_Army
-{
+item Bag_ALICEpack_Army {
 Type = Container,
 DisplayName = Military Backpack,
 ClothingItem = Bag_ALICEpack_Army,
@@ -277,8 +262,7 @@ AttachmentReplacement = Bag,
 ReplaceInSecondHand = Bag_ALICEpack_Army_LHand,
 ReplaceInPrimaryHand = Bag_ALICEpack_Army_RHand,
 }
-item Bag_ALICEpack_Army_LHand
-{
+item Bag_ALICEpack_Army_LHand {
 Type = Container,
 DisplayName = Military Backpack,
 ClothingItem = Bag_ALICEpack_Army_LHand,
@@ -298,8 +282,7 @@ secondaryAnimMask = holdingbagleft,
 ReplaceWhenUnequip = Bag_ALICEpack_Army,
 StaticModel = Bag_ALICEpack_Army,
 }
-item Bag_ALICEpack_Army_RHand
-{
+item Bag_ALICEpack_Army_RHand {
 Type = Container,
 DisplayName = Military Backpack,
 ClothingItem = Bag_ALICEpack_Army_RHand,
@@ -319,8 +302,7 @@ secondaryAnimMask = holdingbagleft,
 ReplaceWhenUnequip = Bag_ALICEpack_Army,
 StaticModel = Bag_ALICEpack_Army,
 }
-item Bag_WeaponBag
-{
+item Bag_WeaponBag {
 Type = Container,
 DisplayName = Duffel Bag,
 ClothingItem = Bag_WeaponBag,
@@ -334,8 +316,7 @@ CanHaveHoles = false,
 ReplaceInSecondHand = Bag_DuffelBag_LHandTINT,
 ReplaceInPrimaryHand = Bag_DuffelBag_RHandTINT,
 }
-item Bag_InmateEscapedBag
-{
+item Bag_InmateEscapedBag {
 Type = Container,
 DisplayName = Duffel Bag,
 ClothingItem = Bag_InmateEscapedBag,
@@ -349,8 +330,7 @@ CanHaveHoles = false,
 ReplaceInSecondHand = Bag_DuffelBag_LHandTINT,
 ReplaceInPrimaryHand = Bag_DuffelBag_RHandTINT,
 }
-item Bag_MoneyBag
-{
+item Bag_MoneyBag {
 Type = Container,
 DisplayName = Duffel Bag,
 ClothingItem = Bag_MoneyBag,
@@ -364,8 +344,7 @@ CanHaveHoles = false,
 ReplaceInSecondHand = Bag_DuffelBag_LHandTINT,
 ReplaceInPrimaryHand = Bag_DuffelBag_RHandTINT,
 }
-item Bag_WorkerBag
-{
+item Bag_WorkerBag {
 Type = Container,
 DisplayName = Duffel Bag,
 ClothingItem = Bag_WorkerBag,
@@ -379,8 +358,7 @@ CanHaveHoles = false,
 ReplaceInSecondHand = Bag_DuffelBag_LHandTINT,
 ReplaceInPrimaryHand = Bag_DuffelBag_RHandTINT,
 }
-item Bag_DuffelBag
-{
+item Bag_DuffelBag {
 Type = Container,
 DisplayName = Duffel Bag,
 ClothingItem = Bag_DuffelBag,
@@ -394,8 +372,7 @@ CanHaveHoles = false,
 ReplaceInSecondHand = Bag_DuffelBag_LHand,
 ReplaceInPrimaryHand = Bag_DuffelBag_RHand,
 }
-item Bag_DuffelBag_LHand
-{
+item Bag_DuffelBag_LHand {
 Type = Container,
 DisplayName = Duffel Bag,
 ClothingItem = Bag_DuffelBag_LHand,
@@ -411,8 +388,7 @@ secondaryAnimMask = holdingbagleft,
 ReplaceWhenUnequip = Bag_DuffelBag,
 StaticModel = DuffelBag_L,
 }
-item Bag_DuffelBag_RHand
-{
+item Bag_DuffelBag_RHand {
 Type = Container,
 DisplayName = Duffel Bag,
 ClothingItem = Bag_DuffelBag_RHand,
@@ -428,8 +404,7 @@ secondaryAnimMask = holdingbagleft,
 ReplaceWhenUnequip = Bag_DuffelBag,
 StaticModel = DuffelBag_L,
 }
-item Bag_DuffelBagTINT
-{
+item Bag_DuffelBagTINT {
 Type = Container,
 DisplayName = Duffel Bag,
 ClothingItem = Bag_DuffelBagTINT,
@@ -444,8 +419,7 @@ CanHaveHoles = false,
 ReplaceInSecondHand = Bag_DuffelBag_LHandTINT,
 ReplaceInPrimaryHand = Bag_DuffelBag_RHandTINT,
 }
-item Bag_DuffelBag_LHandTINT
-{
+item Bag_DuffelBag_LHandTINT {
 Type = Container,
 DisplayName = Duffel Bag,
 ClothingItem = Bag_DuffelBag_LHandTINT,
@@ -461,8 +435,7 @@ secondaryAnimMask = holdingbagleft,
 ReplaceWhenUnequip = Bag_DuffelBagTINT,
 StaticModel = DuffelBag_L,
 }
-item Bag_DuffelBag_RHandTINT
-{
+item Bag_DuffelBag_RHandTINT {
 Type = Container,
 DisplayName = Duffel Bag,
 ClothingItem = Bag_DuffelBag_RHandTINT,
@@ -478,8 +451,7 @@ secondaryAnimMask = holdingbagleft,
 ReplaceWhenUnequip = Bag_DuffelBagTINT,
 StaticModel = DuffelBag_L,
 }
-item Plasticbag
-{
+item Plasticbag {
 WeightReduction = 30,
 Weight = 0.1,
 Type = Container,
@@ -489,8 +461,7 @@ Icon = Plasticbag,
 ReplaceInSecondHand = Bag_Plasticbag_LHand,
 ReplaceInPrimaryHand = Bag_Plasticbag_RHand,
 }
-item Bag_Plasticbag_LHand
-{
+item Bag_Plasticbag_LHand {
 WeightReduction = 30,
 Weight = 0.1,
 Type = Container,
@@ -504,8 +475,7 @@ secondaryAnimMask = holdingbagleft,
 ReplaceWhenUnequip = Plasticbag,
 StaticModel = PlasticBag,
 }
-item Bag_Plasticbag_RHand
-{
+item Bag_Plasticbag_RHand {
 WeightReduction = 30,
 Weight = 0.1,
 Type = Container,
@@ -519,8 +489,7 @@ secondaryAnimMask = holdingbagleft,
 ReplaceWhenUnequip = Plasticbag,
 StaticModel = PlasticBag,
 }
-item Garbagebag
-{
+item Garbagebag {
 WeightReduction = 10,
 Weight = 0.1,
 Type = Container,
@@ -530,8 +499,7 @@ Icon = Garbagebag,
 ReplaceInSecondHand = Bag_Garbagebag_LHand,
 ReplaceInPrimaryHand = Bag_Garbagebag_RHand,
 }
-item Bag_Garbagebag_LHand
-{
+item Bag_Garbagebag_LHand {
 WeightReduction = 10,
 Weight = 0.1,
 Type = Container,
@@ -545,8 +513,7 @@ secondaryAnimMask = holdingbagleft,
 ReplaceWhenUnequip = Garbagebag,
 StaticModel = GarbageBag,
 }
-item Bag_Garbagebag_RHand
-{
+item Bag_Garbagebag_RHand {
 WeightReduction = 10,
 Weight = 0.1,
 Type = Container,
@@ -560,8 +527,7 @@ secondaryAnimMask = holdingbagleft,
 ReplaceWhenUnequip = Garbagebag,
 StaticModel = GarbageBag,
 }
-item Tote
-{
+item Tote {
 WeightReduction = 50,
 Weight = 0.5,
 Type = Container,
@@ -571,8 +537,7 @@ Icon = Tote,
 ReplaceInSecondHand = Bag_Tote_LHand,
 ReplaceInPrimaryHand = Bag_Tote_RHand,
 }
-item Bag_Tote_LHand
-{
+item Bag_Tote_LHand {
 WeightReduction = 50,
 Weight = 0.1,
 Type = Container,
@@ -586,8 +551,7 @@ secondaryAnimMask = holdingbagleft,
 ReplaceWhenUnequip = Tote,
 StaticModel = ToteBag,
 }
-item Bag_Tote_RHand
-{
+item Bag_Tote_RHand {
 WeightReduction = 50,
 Weight = 0.1,
 Type = Container,
@@ -601,8 +565,7 @@ secondaryAnimMask = holdingbagleft,
 ReplaceWhenUnequip = Tote,
 StaticModel = ToteBag,
 }
-item Purse
-{
+item Purse {
 WeightReduction = 55,
 Weight = 0.5,
 Type = Container,
@@ -612,8 +575,7 @@ Icon = Purse,
 ReplaceInSecondHand = Bag_Purse_LHand,
 ReplaceInPrimaryHand = Bag_Purse_RHand,
 }
-item Bag_Purse_LHand
-{
+item Bag_Purse_LHand {
 WeightReduction = 55,
 Weight = 0.1,
 Type = Container,
@@ -627,8 +589,7 @@ secondaryAnimMask = holdingbagleft,
 ReplaceWhenUnequip = Purse,
 StaticModel = Purse,
 }
-item Bag_Purse_RHand
-{
+item Bag_Purse_RHand {
 WeightReduction = 55,
 Weight = 0.1,
 Type = Container,
@@ -642,8 +603,7 @@ secondaryAnimMask = holdingbagleft,
 ReplaceWhenUnequip = Purse,
 StaticModel = Purse,
 }
-item EmptySandbag
-{
+item EmptySandbag {
 Weight = 0.1,
 Type = Container,
 WeightReduction = 10,
@@ -653,8 +613,7 @@ Icon = SandbagEmpty,
 ReplaceInSecondHand = Bag_Sandbag_LHand,
 ReplaceInPrimaryHand = Bag_Sandbag_RHand,
 }
-item Bag_Sandbag_LHand
-{
+item Bag_Sandbag_LHand {
 WeightReduction = 10,
 Weight = 0.1,
 Type = Container,
@@ -668,8 +627,7 @@ secondaryAnimMask = holdingbagleft,
 ReplaceWhenUnequip = EmptySandbag,
 StaticModel = SandBag,
 }
-item Bag_Sandbag_RHand
-{
+item Bag_Sandbag_RHand {
 WeightReduction = 10,
 Weight = 0.1,
 Type = Container,
@@ -683,8 +641,7 @@ secondaryAnimMask = holdingbagleft,
 ReplaceWhenUnequip = EmptySandbag,
 StaticModel = SandBag,
 }
-item Suitcase
-{
+item Suitcase {
 WeightReduction = 50,
 Weight = 3,
 Type = Container,
@@ -694,8 +651,7 @@ Icon = Suitcase,
 ReplaceInSecondHand = Bag_Suitcase_LHand,
 ReplaceInPrimaryHand = Bag_Suitcase_RHand,
 }
-item Bag_Suitcase_LHand
-{
+item Bag_Suitcase_LHand {
 WeightReduction = 50,
 Weight = 3,
 Type = Container,
@@ -709,8 +665,7 @@ secondaryAnimMask = holdingbagleft,
 ReplaceWhenUnequip = Suitcase,
 StaticModel = Purse,
 }
-item Bag_Suitcase_RHand
-{
+item Bag_Suitcase_RHand {
 WeightReduction = 50,
 Weight = 3,
 Type = Container,
@@ -724,8 +679,7 @@ secondaryAnimMask = holdingbagleft,
 ReplaceWhenUnequip = Tote,
 StaticModel = Purse,
 }
-item Handbag
-{
+item Handbag {
 WeightReduction = 40,
 Weight = 1,
 Type = Container,
@@ -735,8 +689,7 @@ Icon = Purseblack,
 ReplaceInSecondHand = Bag_Handbag_LHand,
 ReplaceInPrimaryHand = Bag_Handbag_RHand,
 }
-item Bag_Handbag_LHand
-{
+item Bag_Handbag_LHand {
 WeightReduction = 40,
 Weight = 1,
 Type = Container,
@@ -750,8 +703,7 @@ secondaryAnimMask = holdingbagleft,
 ReplaceWhenUnequip = Handbag,
 StaticModel = Purse,
 }
-item Bag_Handbag_RHand
-{
+item Bag_Handbag_RHand {
 WeightReduction = 40,
 Weight = 1,
 Type = Container,
@@ -765,8 +717,7 @@ secondaryAnimMask = holdingbagleft,
 ReplaceWhenUnequip = Handbag,
 StaticModel = Purse,
 }
-item Toolbox
-{
+item Toolbox {
 WeightReduction = 15,
 Weight = 2,
 Type = Container,
@@ -776,8 +727,7 @@ Icon = Toolbox,
 ReplaceInSecondHand = Bag_Toolbox_LHand,
 ReplaceInPrimaryHand = Bag_Toolbox_RHand,
 }
-item Bag_Toolbox_LHand
-{
+item Bag_Toolbox_LHand {
 WeightReduction = 15,
 Weight = 2,
 Type = Container,
@@ -791,8 +741,7 @@ secondaryAnimMask = holdingbagleft,
 ReplaceWhenUnequip = Toolbox,
 StaticModel = Purse,
 }
-item Bag_Toolbox_RHand
-{
+item Bag_Toolbox_RHand {
 WeightReduction = 15,
 Weight = 2,
 Type = Container,
@@ -806,8 +755,7 @@ secondaryAnimMask = holdingbagleft,
 ReplaceWhenUnequip = Toolbox,
 StaticModel = Purse,
 }
-item FirstAidKit
-{
+item FirstAidKit {
 WeightReduction = 5,
 Weight = 1,
 Type = Container,
@@ -819,8 +767,7 @@ Medical = TRUE,
 ReplaceInSecondHand = Bag_FirstAidKit_LHand,
 ReplaceInPrimaryHand = Bag_FirstAidKit_RHand,
 }
-item Bag_FirstAidKit_LHand
-{
+item Bag_FirstAidKit_LHand {
 WeightReduction = 5,
 Weight = 1,
 Type = Container,
@@ -834,8 +781,7 @@ secondaryAnimMask = holdingbagleft,
 ReplaceWhenUnequip = FirstAidKit,
 StaticModel = Purse,
 }
-item Bag_FirstAidKit_RHand
-{
+item Bag_FirstAidKit_RHand {
 WeightReduction = 5,
 Weight = 1,
 Type = Container,
@@ -849,8 +795,7 @@ secondaryAnimMask = holdingbagleft,
 ReplaceWhenUnequip = FirstAidKit,
 StaticModel = Purse,
 }
-item Lunchbox
-{
+item Lunchbox {
 WeightReduction = 5,
 Weight = 1,
 Type = Container,
@@ -862,8 +807,7 @@ Medical = TRUE,
 ReplaceInSecondHand = Bag_Lunchbox_LHand,
 ReplaceInPrimaryHand = Bag_Lunchbox_RHand,
 }
-item Bag_Lunchbox_LHand
-{
+item Bag_Lunchbox_LHand {
 WeightReduction = 5,
 Weight = 1,
 Type = Container,
@@ -877,8 +821,7 @@ secondaryAnimMask = holdingbagleft,
 ReplaceWhenUnequip = Lunchbox,
 StaticModel = Purse,
 }
-item Bag_Lunchbox_RHand
-{
+item Bag_Lunchbox_RHand {
 WeightReduction = 5,
 Weight = 1,
 Type = Container,
@@ -893,8 +836,7 @@ ReplaceWhenUnequip = Lunchbox,
 StaticModel = Purse,
 }
 
-item Lunchbox2
-{
+item Lunchbox2 {
 WeightReduction = 5,
 Weight = 1,
 Type = Container,
@@ -906,8 +848,7 @@ Medical = TRUE,
 ReplaceInSecondHand = Bag_Lunchbox2_LHand,
 ReplaceInPrimaryHand = Bag_Lunchbox2_RHand,
 }
-item Bag_Lunchbox2_LHand
-{
+item Bag_Lunchbox2_LHand {
 WeightReduction = 5,
 Weight = 1,
 Type = Container,
@@ -921,8 +862,7 @@ secondaryAnimMask = holdingbagleft,
 ReplaceWhenUnequip = Lunchbox2,
 StaticModel = Purse,
 }
-item Bag_Lunchbox2_RHand
-{
+item Bag_Lunchbox2_RHand {
 WeightReduction = 5,
 Weight = 1,
 Type = Container,
