@@ -1,16 +1,5 @@
 module Base {
-item SpiffoSuit {
-Type = Clothing,
-DisplayName = Spiffo Suit,
-ClothingItem = SpiffoSuit,
-BodyLocation = FullSuit,
-BloodLocation = Trousers;Jumper,
-Icon = SpiffoSuit,
-RunSpeedModifier = 0.7,
-ScratchDefense = 10,
-Insulation = 0.85,
-WindResistance = 0.6,
-}
+
 item Boilersuit {
 Type = Clothing,
 DisplayName = Coveralls,
@@ -74,16 +63,5 @@ ScratchDefense = 10,
 Insulation = 0.40,
 WindResistance = 0.30,
 }
-item WeddingDress {
-Type = Clothing,
-DisplayName = Wedding Dress,
-ClothingItem = WeddingDress,
-BodyLocation = FullSuit,
-BloodLocation = Trousers;Shirt,
-Icon = DressWedding,
-RunSpeedModifier = 0.8,
-ScratchDefense = 10,
-Insulation = 0.25,
-WindResistance = 0.1,
-}
+
 }

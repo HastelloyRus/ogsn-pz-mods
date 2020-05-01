@@ -1,0 +1,13 @@
+module Base {
+item Vest_Waistcoat {
+Type = Clothing,
+DisplayName = Waistcoat,
+ClothingItem = Vest_Waistcoat,
+BodyLocation = TorsoExtra,
+Icon = Vest_Black,
+BloodLocation = ShirtNoSleeves,
+Insulation = 0.35,
+WindResistance = 0.25,
+FabricType = Cotton,
+}
+}

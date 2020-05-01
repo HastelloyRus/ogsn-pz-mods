@@ -1,0 +1,14 @@
+module Base {
+item Gloves_LongWomenGloves {
+Type = Clothing,
+DisplayName = Long Gloves,
+ClothingItem = Gloves_LongWomenGloves,
+BodyLocation = Hands,
+BloodLocation = Hands,
+Icon = GlovesLongBlack,
+Weight = 0.1,
+Insulation = 0.5,
+WindResistance = 0.5,
+FabricType = Cotton,
+}
+}

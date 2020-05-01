@@ -1,0 +1,18 @@
+module Base {
+item Hat_SurgicalMask_Blue {
+Type = Clothing,
+DisplayName = Medical Mask,
+ClothingItem = Hat_SurgicalMask_Blue,
+BodyLocation = Mask,
+Icon = SurgicalMaskBlue,
+CanHaveHoles = false,
+}
+item Hat_SurgicalMask_Green {
+Type = Clothing,
+DisplayName = Medical Mask,
+ClothingItem = Hat_SurgicalMask_Green,
+BodyLocation = Mask,
+Icon = SurgicalMaskGreen,
+CanHaveHoles = false,
+}
+}

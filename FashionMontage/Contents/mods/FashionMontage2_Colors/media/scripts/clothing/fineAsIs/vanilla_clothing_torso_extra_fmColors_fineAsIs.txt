@@ -1,0 +1,20 @@
+module Base {
+item Apron_White {
+Type = Clothing,
+DisplayName = Apron,
+ClothingItem = Apron_White,
+BodyLocation = TorsoExtra,
+BloodLocation = Apron,
+Icon = ApronWhite,
+FabricType = Cotton,
+}
+item Apron_WhiteTEXTURE {
+Type = Clothing,
+DisplayName = Tight Fit Apron,
+ClothingItem = Apron_WhiteTEXTURE,
+BodyLocation = TorsoExtra,
+BloodLocation = Apron,
+Icon = ApronWhite,
+FabricType = Cotton,
+}
+}

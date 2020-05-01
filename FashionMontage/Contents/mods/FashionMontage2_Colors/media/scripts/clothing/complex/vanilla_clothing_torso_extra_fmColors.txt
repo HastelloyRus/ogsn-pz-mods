@@ -1,15 +1,4 @@
 module Base {
-item Vest_Waistcoat {
-Type = Clothing,
-DisplayName = Waistcoat,
-ClothingItem = Vest_Waistcoat,
-BodyLocation = TorsoExtra,
-Icon = Vest_Black,
-BloodLocation = ShirtNoSleeves,
-Insulation = 0.35,
-WindResistance = 0.25,
-FabricType = Cotton,
-}
 item Vest_Waistcoat_GigaMart {
 Type = Clothing,
 DisplayName = GigaMart Waistcoat,
@@ -154,24 +143,6 @@ ClothingItem = Apron_Spiffos,
 BodyLocation = TorsoExtra,
 BloodLocation = Apron,
 Icon = ApronSpiffo,
-FabricType = Cotton,
-}
-item Apron_White {
-Type = Clothing,
-DisplayName = Apron,
-ClothingItem = Apron_White,
-BodyLocation = TorsoExtra,
-BloodLocation = Apron,
-Icon = ApronWhite,
-FabricType = Cotton,
-}
-item Apron_WhiteTEXTURE {
-Type = Clothing,
-DisplayName = Tight Fit Apron,
-ClothingItem = Apron_WhiteTEXTURE,
-BodyLocation = TorsoExtra,
-BloodLocation = Apron,
-Icon = ApronWhite,
 FabricType = Cotton,
 }
 }
