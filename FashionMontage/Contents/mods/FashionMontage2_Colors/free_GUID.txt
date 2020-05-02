@@ -21,3 +21,9 @@ PonchoGreenDOWN : 2cfe07c1-329a-479a-9974-c73742e13be1
 PonchoGreen : 502bfde1-2263-4368-aded-6889e964bbeb
 Scarf_StripeBlueWhite : 1f5ca3c2-49b1-4a98-aec3-6e542ad09f3e
 Scarf_StripeRedWhite : de34608d-c152-4944-8f42-ea4ea6f067b2
+Hat_JockeyHelmet01 : e27317be-c4eb-4329-9e1a-8c22c2c4f812 : Hat_JockeyHelmet01
+Hat_JockeyHelmet02 : 48d4f5b3-30f8-4219-b8c6-07b2065042d8
+Hat_JockeyHelmet03 : b7502ccb-7893-4c77-bcfd-43e88fae6654
+Hat_JockeyHelmet04 : 9a84caf4-28e6-4c7c-8593-49cad0fc0ad1
+Hat_JockeyHelmet05 : 7c646f18-9c75-4348-a5cf-666585b85a04
+Hat_JockeyHelmet06 : 082b9eff-96d2-4928-88e8-414d34ced2bb

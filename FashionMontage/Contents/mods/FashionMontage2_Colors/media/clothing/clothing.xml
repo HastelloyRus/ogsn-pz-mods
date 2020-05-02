@@ -1214,7 +1214,7 @@
 		<m_AllowTShirtDecal>false</m_AllowTShirtDecal>
 		<m_items>
 			<probability>0.7</probability>
-			<itemGUID>9a84caf4-28e6-4c7c-8593-49cad0fc0ad1</itemGUID>
+			<itemGUID>1b6e0ffd-e2f2-4d1d-831a-8fb23f32c67a</itemGUID>
 		</m_items>
 		<m_items>
 			<probability>0.5</probability>
@@ -1241,7 +1241,7 @@
 		<m_AllowTShirtDecal>false</m_AllowTShirtDecal>
 		<m_items>
 			<probability>0.7</probability>
-			<itemGUID>7c646f18-9c75-4348-a5cf-666585b85a04</itemGUID>
+			<itemGUID>1b6e0ffd-e2f2-4d1d-831a-8fb23f32c67a</itemGUID>
 		</m_items>
 		<m_items>
 			<probability>0.5</probability>
@@ -3942,7 +3942,7 @@
 		<m_AllowTShirtDecal>false</m_AllowTShirtDecal>
 		<m_items>
 			<probability>0.7</probability>
-			<itemGUID>e27317be-c4eb-4329-9e1a-8c22c2c4f812</itemGUID>
+			<itemGUID>1b6e0ffd-e2f2-4d1d-831a-8fb23f32c67a</itemGUID>
 		</m_items>
 		<m_items>
 			<probability>0.5</probability>
@@ -3969,7 +3969,7 @@
 		<m_AllowTShirtDecal>false</m_AllowTShirtDecal>
 		<m_items>
 			<probability>0.7</probability>
-			<itemGUID>48d4f5b3-30f8-4219-b8c6-07b2065042d8</itemGUID>
+			<itemGUID>1b6e0ffd-e2f2-4d1d-831a-8fb23f32c67a</itemGUID>
 		</m_items>
 		<m_items>
 			<probability>0.5</probability>
@@ -3996,7 +3996,7 @@
 		<m_AllowTShirtDecal>false</m_AllowTShirtDecal>
 		<m_items>
 			<probability>0.7</probability>
-			<itemGUID>b7502ccb-7893-4c77-bcfd-43e88fae6654</itemGUID>
+			<itemGUID>1b6e0ffd-e2f2-4d1d-831a-8fb23f32c67a</itemGUID>
 		</m_items>
 		<m_items>
 			<probability>0.5</probability>
@@ -4039,7 +4039,7 @@
 		</m_items>
 		<m_items>
 			<probability>0.7</probability>
-			<itemGUID>082b9eff-96d2-4928-88e8-414d34ced2bb</itemGUID>
+			<itemGUID>1b6e0ffd-e2f2-4d1d-831a-8fb23f32c67a</itemGUID>
 		</m_items>
 	</m_MaleOutfits>
 	<m_MaleOutfits>

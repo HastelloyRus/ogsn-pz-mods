@@ -65,19 +65,19 @@
     One jockey uniform with six choices. Give all zeds a plain black helmet so they don't look mismatched.
     This frees up 10 GUIDs (5S from the shirts, 5 from the helmets)
     Shirts:
-      1 <m_GUID>65e37ef2-a58e-4c76-b4aa-272ad4546677</m_GUID>
-      2 <m_GUID>5b1bd1bf-d8a3-498f-bd72-4240420fd9c2</m_GUID>
-      3 <m_GUID>1ea53e74-d1c3-4d51-9197-97fa64857fe1</m_GUID>
-      4 <m_GUID>e455a4a5-15c7-4a32-99a1-3f08950a549a</m_GUID>
-      5 <m_GUID>84d47569-4a26-465d-8e9a-8418deb33f0b</m_GUID>
-      6 <m_GUID>b6373a7a-7404-4127-9da4-d603dd094236</m_GUID>
+      Shirt_Jockey01 <m_GUID>65e37ef2-a58e-4c76-b4aa-272ad4546677</m_GUID>
+      Shirt_Jockey02 <m_GUID>5b1bd1bf-d8a3-498f-bd72-4240420fd9c2</m_GUID>
+      Shirt_Jockey03 <m_GUID>1ea53e74-d1c3-4d51-9197-97fa64857fe1</m_GUID>
+      Shirt_Jockey04 <m_GUID>e455a4a5-15c7-4a32-99a1-3f08950a549a</m_GUID>
+      Shirt_Jockey05 <m_GUID>84d47569-4a26-465d-8e9a-8418deb33f0b</m_GUID>
+      Shirt_Jockey06 <m_GUID>b6373a7a-7404-4127-9da4-d603dd094236</m_GUID>
     Helmets
-      1	<m_GUID>e27317be-c4eb-4329-9e1a-8c22c2c4f812</m_GUID>
-      2	<m_GUID>48d4f5b3-30f8-4219-b8c6-07b2065042d8</m_GUID>
-      3	<m_GUID>b7502ccb-7893-4c77-bcfd-43e88fae6654</m_GUID>
-      4	<m_GUID>9a84caf4-28e6-4c7c-8593-49cad0fc0ad1</m_GUID>
-      5	<m_GUID>7c646f18-9c75-4348-a5cf-666585b85a04</m_GUID>
-      6	<m_GUID>082b9eff-96d2-4928-88e8-414d34ced2bb</m_GUID>
+      Hat_JockeyHelmet01	<m_GUID>e27317be-c4eb-4329-9e1a-8c22c2c4f812</m_GUID>
+      Hat_JockeyHelmet02	<m_GUID>48d4f5b3-30f8-4219-b8c6-07b2065042d8</m_GUID>
+      Hat_JockeyHelmet03	<m_GUID>b7502ccb-7893-4c77-bcfd-43e88fae6654</m_GUID>
+      Hat_JockeyHelmet04	<m_GUID>9a84caf4-28e6-4c7c-8593-49cad0fc0ad1</m_GUID>
+      Hat_JockeyHelmet05	<m_GUID>7c646f18-9c75-4348-a5cf-666585b85a04</m_GUID>
+      Hat_JockeyHelmet06	<m_GUID>082b9eff-96d2-4928-88e8-414d34ced2bb</m_GUID>
 
   SwimTrunks:
     Either have one item that has many colors as choices, or just have a tinted version
