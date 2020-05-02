@@ -1,0 +1,14 @@
+-- Old_Item : GUID : New_Item --
+Hat_BonnieHat : 061cfa05-c6e2-4dcd-8737-ab7af41e0750
+Hat_HardHat_Miner : 0899bf9d-f42c-45fe-919e-9dd6c73f8fed
+Shorts_LongSport_Red : 5327466b-ef38-4e7b-a7c9-a8b6b1257087
+Apron_TacoDelPancho : 693e7c35-9616-4326-9ddd-5331404f8ba3
+Tattoo_Arm1 : ec2b8d6a-323b-4264-abe6-7499fa1cf01e
+Tattoo_chest1 : c256dda6-a3a1-4806-9410-a8e9569c9a37
+Test_Weapon : cbdb4e53-695e-42ff-b602-e5d19bb4d630
+Socks_LegWarmers : aaf3194d-6e6f-454f-a690-cbca734165bc
+Male_Undies : 1f8e2ebe-0525-4504-a307-fdd4e3ee2c78
+Bag_DuffelBag : b02d3217-b692-4035-8a61-8c4305998464
+Bag_DuffelBag_LHand : 2f9833c0-8b1d-48f9-a30f-e66b99132cde
+Bag_DuffelBag_RHand : d90ed5ae-6867-485b-b49f-88801bea0bc9
+Fedora_Delmonte : 6b4e91cf-0de7-41d8-b144-95a975e31669

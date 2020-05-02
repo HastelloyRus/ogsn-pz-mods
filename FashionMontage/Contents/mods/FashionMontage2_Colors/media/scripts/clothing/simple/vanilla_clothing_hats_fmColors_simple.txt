@@ -49,20 +49,6 @@ Insulation = 0.65,
 WindResistance = 0.55,
 WaterResistance = 0.60,
 }
-item Hat_HardHat_Miner {
-Type = Clothing,
-DisplayName = Mining Helmet,
-ClothingItem = Hat_HardHat_Miner,
-BodyLocation = Hat,
-Icon = HardHatMiner,
-CanHaveHoles = false,
-BloodLocation = Head,
-BiteDefense = 100,
-ScratchDefense = 100,
-ChanceToFall = 20,
-Insulation = 0.15,
-WindResistance = 0.20,
-}
 item Hat_Raccoon {
 Type = Clothing,
 DisplayName = Raccoon Hat,
@@ -84,18 +70,6 @@ BodyLocation = Hat,
 Icon = Showercap,
 CanHaveHoles = false,
 ChanceToFall = 80,
-}
-item Hat_BonnieHat {
-Type = Clothing,
-DisplayName = Bonnie Hat,
-ClothingItem = Hat_BonnieHat,
-BodyLocation = Hat,
-Icon = HatBonnieGreen,
-CanHaveHoles = false,
-ChanceToFall = 80,
-BloodLocation = Head,
-Insulation = 0.5,
-WindResistance = 0.3,
 }
 item Hat_BonnieHat_CamoGreen {
 Type = Clothing,

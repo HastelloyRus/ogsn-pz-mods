@@ -1,0 +1,7 @@
+module Base {
+item Hat_BonnieHat {Type = Normal}
+item Hat_HardHat_Miner {Type = Normal}
+item Shorts_LongSport_Red {Type = Normal}
+item Hat_Fedora_Delmonte {Type = Normal}
+item Male_Undies {Type = Normal}
+}

@@ -35,17 +35,6 @@ Insulation = 0.25,
 WindResistance = 0.1,
 FabricType = Cotton,
 }
-item Shorts_LongSport_Red {
-Type = Clothing,
-DisplayName = Long Sport Shorts,
-ClothingItem = Shorts_LongSport_Red,
-BodyLocation = Pants,
-Icon = ShortsLongAthleticRed,
-BloodLocation = Trousers,
-Insulation = 0.25,
-WindResistance = 0.1,
-FabricType = Cotton,
-}
 item Shorts_ShortDenim {
 Type = Clothing,
 DisplayName = Denim Shorts,
