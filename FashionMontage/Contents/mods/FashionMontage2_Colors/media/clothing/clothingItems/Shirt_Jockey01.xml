@@ -7,4 +7,9 @@
 	<m_AllowRandomTint>false</m_AllowRandomTint>
 	<m_AttachBone></m_AttachBone>
 	<m_BaseTextures>clothes\shirt_tshirt_textures\shirt_jockey01</m_BaseTextures>
+	<m_BaseTextures>clothes\shirt_tshirt_textures\shirt_jockey02</m_BaseTextures>
+	<m_BaseTextures>clothes\shirt_tshirt_textures\shirt_jockey03</m_BaseTextures>
+	<m_BaseTextures>clothes\shirt_tshirt_textures\shirt_jockey04</m_BaseTextures>
+	<m_BaseTextures>clothes\shirt_tshirt_textures\shirt_jockey05</m_BaseTextures>
+	<m_BaseTextures>clothes\shirt_tshirt_textures\shirt_jockey06</m_BaseTextures>
 </clothingItem>

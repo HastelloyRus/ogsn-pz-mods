@@ -1,26 +1,32 @@
 module Base {
-item Hat_BonnieHat {Type = Normal}
-item Hat_HardHat_Miner {Type = Normal}
-item Shorts_LongSport_Red {Type = Normal}
-item Hat_Fedora_Delmonte {Type = Normal}
-item Male_Undies {Type = Normal}
-item Hat_SurgicalCap_Blue {Type = Normal}
-item Hat_SurgicalMask_Blue {Type = Normal}
-item Hat_VisorBlack {Type = Normal}
-item Hat_VisorRed {Type = Normal}
-item Jacket_NavyBlue {Type = Normal}  // 0ab6a4b8-4dcf-4ee0-9e5a-c6304652568a
+item Hat_BonnieHat {}
+item Hat_HardHat_Miner {}
+item Shorts_LongSport_Red {}
+item Hat_Fedora_Delmonte {}
+item Male_Undies {}
+item Hat_SurgicalCap_Blue {}
+item Hat_SurgicalMask_Blue {}
+item Hat_VisorBlack {}
+item Hat_VisorRed {}
+item Jacket_NavyBlue {}  // 0ab6a4b8-4dcf-4ee0-9e5a-c6304652568a
 item PonchoGreenDOWN {} // 2cfe07c1-329a-479a-9974-c73742e13be1
 item PonchoGreen {} // 502bfde1-2263-4368-aded-6889e964bbeb
 item Scarf_StripeBlueWhite {} // 1f5ca3c2-49b1-4a98-aec3-6e542ad09f3e
 item Scarf_StripeRedWhite {} // de34608d-c152-4944-8f42-ea4ea6f067b2
-item Hat_JockeyHelmet02 {Type = Normal} // 48d4f5b3-30f8-4219-b8c6-07b2065042d8
-item Hat_JockeyHelmet03 {Type = Normal} // b7502ccb-7893-4c77-bcfd-43e88fae6654
-item Hat_JockeyHelmet04 {Type = Normal} // 9a84caf4-28e6-4c7c-8593-49cad0fc0ad1
-item Hat_JockeyHelmet05 {Type = Normal} // 7c646f18-9c75-4348-a5cf-666585b85a04
-item Hat_JockeyHelmet06 {Type = Normal} // 082b9eff-96d2-4928-88e8-414d34ced2bb
+item Hat_JockeyHelmet02 {} // 48d4f5b3-30f8-4219-b8c6-07b2065042d8
+item Hat_JockeyHelmet03 {} // b7502ccb-7893-4c77-bcfd-43e88fae6654
+item Hat_JockeyHelmet04 {} // 9a84caf4-28e6-4c7c-8593-49cad0fc0ad1
+item Hat_JockeyHelmet05 {} // 7c646f18-9c75-4348-a5cf-666585b85a04
+item Hat_JockeyHelmet06 {} // 082b9eff-96d2-4928-88e8-414d34ced2bb
 
-item SwimTrunks_Red {Type = Normal} // e525cc52-cf30-45df-adc7-19706c019673
-item SwimTrunks_Green {Type = Normal} // 01e4a480-9178-46aa-ad16-001580971665
-item SwimTrunks_Yellow {Type = Normal} // 2587e4f8-1e7f-4793-ad11-dd4b96ea7359
+item SwimTrunks_Red {} // e525cc52-cf30-45df-adc7-19706c019673
+item SwimTrunks_Green {} // 01e4a480-9178-46aa-ad16-001580971665
+item SwimTrunks_Yellow {} // 2587e4f8-1e7f-4793-ad11-dd4b96ea7359
+
+item Shirt_Jockey02 {} // 5b1bd1bf-d8a3-498f-bd72-4240420fd9c2
+item Shirt_Jockey03 {} // 1ea53e74-d1c3-4d51-9197-97fa64857fe1
+item Shirt_Jockey04 {} // e455a4a5-15c7-4a32-99a1-3f08950a549a
+item Shirt_Jockey05 {} // 84d47569-4a26-465d-8e9a-8418deb33f0b
+item Shirt_Jockey06 {} // b6373a7a-7404-4127-9da4-d603dd094236
 
 }
