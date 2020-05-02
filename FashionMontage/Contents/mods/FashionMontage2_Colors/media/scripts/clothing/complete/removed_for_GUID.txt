@@ -9,5 +9,7 @@ item Hat_SurgicalMask_Blue {Type = Normal}
 item Hat_VisorBlack {Type = Normal}
 item Hat_VisorRed {Type = Normal}
 item Jacket_NavyBlue {Type = Normal}  // 0ab6a4b8-4dcf-4ee0-9e5a-c6304652568a
+item PonchoGreenDOWN {} // 2cfe07c1-329a-479a-9974-c73742e13be1
+item PonchoGreen {} // 502bfde1-2263-4368-aded-6889e964bbeb
 
 }
