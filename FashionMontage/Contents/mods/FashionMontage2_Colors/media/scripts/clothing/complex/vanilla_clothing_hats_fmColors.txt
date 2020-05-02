@@ -205,7 +205,7 @@ WindResistance = 0.1,
 item Hat_Fedora_Delmonte {
 Type = Clothing,
 DisplayName = Fedora - Colors,
-ClothingItem = Hat_Fedora,
+ClothingItem = Hat_Fedora_Delmonte,
 BodyLocation = Hat,
 Icon=FedoraYellow,
 ChanceToFall = 80,
