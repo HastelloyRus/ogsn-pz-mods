@@ -100,15 +100,6 @@ BloodLocation = ShirtNoSleeves,
 Insulation = 0.1,
 WindResistance = 0.05,
 }
-item Apron_Black {
-Type = Clothing,
-DisplayName = Apron,
-ClothingItem = Apron_Black,
-BodyLocation = TorsoExtra,
-BloodLocation = Apron,
-Icon = ApronBlack,
-FabricType = Cotton,
-}
 item Apron_IceCream {
 Type = Clothing,
 DisplayName = Ice Cream Server Apron,
