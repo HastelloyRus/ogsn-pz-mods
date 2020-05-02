@@ -1,9 +1,0 @@
-module Base {
-item SpiffoTail {
-Type = Clothing,
-DisplayName = Spiffo Suit Tail,
-ClothingItem = SpiffoTail,
-BodyLocation = Tail,
-Icon = SpiffoTail,
-}
-}
