@@ -3,6 +3,10 @@
   	<m_GUID>693e7c35-9616-4326-9ddd-5331404f8ba3</m_GUID>
     zed type is never used (Waiter_TachoDelPancho)
 
+  Glasses  825f5380-d6ef-4cf8-8d77-d3a115724f4a
+    This is identical to ski goggles orange option (03007a08-7e7f-4a5d-93a7-e2d8d5a46c53)
+    Solution: make one a light and the other a dark version
+
   Tattoos:
     ec2b8d6a-323b-4264-abe6-7499fa1cf01e
     c256dda6-a3a1-4806-9410-a8e9569c9a37

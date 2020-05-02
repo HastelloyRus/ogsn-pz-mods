@@ -1,12 +1,21 @@
 module Base {
 item Glasses {
 Type = Clothing,
-DisplayName = Reflective Sunglasses,
+DisplayName = Ski Goggles - Tint,
 ClothingItem = Glasses,
 BodyLocation = Eyes,
-Icon = Glasses,
+Icon = SkiGogglesBlack,
 Weight = 0.1,
-ChanceToFall = 50,
+ChanceToFall = 20,
+}
+item Glasses_SkiGoggles {
+Type = Clothing,
+DisplayName = Ski Goggles - Shade,
+ClothingItem = Glasses_SkiGoggles,
+BodyLocation = Eyes,
+IconsForTexture = SkiGogglesWhite,
+Weight = 0.1,
+ChanceToFall = 20,
 }
 item Glasses_Aviators {
 Type = Clothing,
@@ -22,7 +31,7 @@ Type = Clothing,
 DisplayName = Glasses,
 ClothingItem = Glasses_Normal,
 BodyLocation = Eyes,
-IconsForTexture = GlassesBlack;GlassesBlue;GlassesRed,
+IconsForTexture = GlassesBlack,
 Weight = 0.1,
 ChanceToFall = 50,
 }
@@ -31,7 +40,7 @@ Type = Clothing,
 DisplayName = Reading Glasses,
 ClothingItem = Glasses_Reading,
 BodyLocation = Eyes,
-IconsForTexture = GlassesReading;GlassesReading;GlassesReading,
+IconsForTexture = GlassesReading,
 Weight = 0.1,
 ChanceToFall = 50,
 }
@@ -53,15 +62,7 @@ Icon = ShootingGlasses,
 Weight = 0.1,
 ChanceToFall = 20,
 }
-item Glasses_SkiGoggles {
-Type = Clothing,
-DisplayName = Ski Goggles,
-ClothingItem = Glasses_SkiGoggles,
-BodyLocation = Eyes,
-IconsForTexture = SkiGogglesBlack;SkiGogglesWhite,
-Weight = 0.1,
-ChanceToFall = 20,
-}
+
 item Glasses_Sun {
 Type = Clothing,
 DisplayName = Sunglasses,
