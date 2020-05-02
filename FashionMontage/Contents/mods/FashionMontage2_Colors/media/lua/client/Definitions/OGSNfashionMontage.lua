@@ -144,8 +144,8 @@ local listShirt = {
   "DistinctNames.Shirt_Workman",
 }
 local listSocks = {
-  "DistinctNames.Socks_Ankle",
-  "DistinctNames.Socks_Long",
+  "Base.Socks_Ankle",
+  "Base.Socks_Long",
 }
 local listPants = {
   "DistinctNames.Shorts_CamoGreenLong",
@@ -202,7 +202,7 @@ local listDress = {
 local listShoes = {
   -- "DistinctNames.Shoes_Black",
   -- "DistinctNames.Shoes_Brown",
-  "DistinctNames.Shoes_Random",
+  "Base.Shoes_Random",
   -- "DistinctNames.Shoes_RedTrainers",
   -- "DistinctNames.Shoes_BlueTrainers",
   "DistinctNames.Shoes_TrainerTINT",
@@ -214,15 +214,15 @@ local listShoes = {
   "DistinctNames.Shoes_Slippers",
 }
 local listEyes = {
-  "DistinctNames.Glasses_Normal",
-  "DistinctNames.Glasses_Reading",
-  "DistinctNames.Glasses_SafetyGoggles",
-  "DistinctNames.Glasses_Shooting",
-  "DistinctNames.Glasses_SkiGoggles",
-  "DistinctNames.Glasses_SwimmingGoggles",
-  "DistinctNames.Glasses_Sun",
-  "DistinctNames.Glasses_Aviators",
-  "DistinctNames.Glasses",
+  "Base.Glasses_Normal",
+  "Base.Glasses_Reading",
+  "Base.Glasses_SafetyGoggles",
+  "Base.Glasses_Shooting",
+  "Base.Glasses_SkiGoggles",
+  "Base.Glasses_SwimmingGoggles",
+  "Base.Glasses_Sun",
+  "Base.Glasses_Aviators",
+  "Base.Glasses",
 }
 local listBeltExtra = {
   "DistinctNames.HolsterSimple",
@@ -238,8 +238,8 @@ local listMask = {
   "DistinctNames.Hat_SurgicalMask_Green",
 }
 local listMaskEyes = {
-  "DistinctNames.Hat_GasMask",
-  "DistinctNames.WeldingMask",
+  "Base.Hat_GasMask",
+  "Base.WeldingMask",
 }
 local listUnderwear = {
   "DistinctNames.Bikini_TINT",
