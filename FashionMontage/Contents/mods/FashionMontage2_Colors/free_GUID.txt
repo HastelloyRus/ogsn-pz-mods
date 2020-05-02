@@ -27,3 +27,7 @@ Hat_JockeyHelmet03 : b7502ccb-7893-4c77-bcfd-43e88fae6654
 Hat_JockeyHelmet04 : 9a84caf4-28e6-4c7c-8593-49cad0fc0ad1
 Hat_JockeyHelmet05 : 7c646f18-9c75-4348-a5cf-666585b85a04
 Hat_JockeyHelmet06 : 082b9eff-96d2-4928-88e8-414d34ced2bb
+
+SwimTrunks_Red : e525cc52-cf30-45df-adc7-19706c019673
+SwimTrunks_Green : 01e4a480-9178-46aa-ad16-001580971665
+SwimTrunks_Yellow : 2587e4f8-1e7f-4793-ad11-dd4b96ea7359

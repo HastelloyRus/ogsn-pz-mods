@@ -19,4 +19,8 @@ item Hat_JockeyHelmet04 {Type = Normal} // 9a84caf4-28e6-4c7c-8593-49cad0fc0ad1
 item Hat_JockeyHelmet05 {Type = Normal} // 7c646f18-9c75-4348-a5cf-666585b85a04
 item Hat_JockeyHelmet06 {Type = Normal} // 082b9eff-96d2-4928-88e8-414d34ced2bb
 
+item SwimTrunks_Red {Type = Normal} // e525cc52-cf30-45df-adc7-19706c019673
+item SwimTrunks_Green {Type = Normal} // 01e4a480-9178-46aa-ad16-001580971665
+item SwimTrunks_Yellow {Type = Normal} // 2587e4f8-1e7f-4793-ad11-dd4b96ea7359
+
 }

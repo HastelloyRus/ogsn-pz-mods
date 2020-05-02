@@ -1,0 +1,10 @@
+module Base {
+item SwimTrunks_Blue {
+Type = Clothing,
+DisplayName = Swim Trunks,
+ClothingItem = SwimTrunks_Blue,
+BodyLocation = Underwear,
+Icon = Swimtrunks_Blue;Swimtrunks_Green;Swimtrunks_Red;Swimtrunks_Yellow,
+Weight = 0.1,
+}
+}
