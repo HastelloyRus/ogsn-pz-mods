@@ -1,0 +1,14 @@
+module Base {
+item Scarf_StripeBlackWhite {
+Type = Clothing,
+DisplayName = Scarf,
+ClothingItem = Scarf_StripeBlackWhite,
+BodyLocation = Scarf,
+Icon = ScarfStripedBlack,
+Weight = 0.2,
+BloodLocation = Neck,
+ScratchDefense = 10,
+Insulation = 0.5,
+WindResistance = 0.55,
+}
+}

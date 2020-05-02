@@ -11,5 +11,6 @@ item Hat_VisorRed {Type = Normal}
 item Jacket_NavyBlue {Type = Normal}  // 0ab6a4b8-4dcf-4ee0-9e5a-c6304652568a
 item PonchoGreenDOWN {} // 2cfe07c1-329a-479a-9974-c73742e13be1
 item PonchoGreen {} // 502bfde1-2263-4368-aded-6889e964bbeb
-
+item Scarf_StripeBlueWhite {} // 1f5ca3c2-49b1-4a98-aec3-6e542ad09f3e
+item Scarf_StripeRedWhite {} // de34608d-c152-4944-8f42-ea4ea6f067b2
 }
