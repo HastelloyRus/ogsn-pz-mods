@@ -1,7 +1,7 @@
 module Base {
 item Gloves_LeatherGloves {
 Type = Clothing,
-DisplayName = Leather Gloves,
+DisplayName = Leather Gloves - Natural,
 ClothingItem = Gloves_LeatherGloves,
 BodyLocation = Hands,
 IconsForTexture = GlovesLeatherBlackpng;GlovesLeatherBrown,
@@ -13,9 +13,9 @@ Insulation = 0.75,
 WindResistance = 0.75,
 FabricType = Leather,
 }
-item Gloves_LeatherGlovesBlack {
+item Gloves_LeatherGlovesBlack { // this is colorful now
 Type = Clothing,
-DisplayName = Leather Gloves,
+DisplayName = Leather Gloves - Dyed,
 ClothingItem = Gloves_LeatherGlovesBlack,
 BodyLocation = Hands,
 BloodLocation = Hands,
