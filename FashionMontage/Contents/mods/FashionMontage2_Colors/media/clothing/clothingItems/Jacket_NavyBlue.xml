@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<!-- <clothingItem> -->
+<clothingItem>
 	<!-- <m_MaleModel>x:skinned\clothes\bob_jacket</m_MaleModel> -->
 	<!-- <m_FemaleModel>x:skinned\clothes\kate_jacket</m_FemaleModel> -->
 	<!-- <m_GUID>0ab6a4b8-4dcf-4ee0-9e5a-c6304652568a</m_GUID> -->
@@ -13,4 +13,4 @@
 	<!-- <m_Masks>5</m_Masks> -->
 	<!-- <m_UnderlayMasksFolder>media/textures/Clothes/Jacket/Masks</m_UnderlayMasksFolder> -->
 	<!-- <textureChoices>clothes\jacket\jacket_navyblue</textureChoices> -->
-<!-- </clothingItem> -->
+</clothingItem>

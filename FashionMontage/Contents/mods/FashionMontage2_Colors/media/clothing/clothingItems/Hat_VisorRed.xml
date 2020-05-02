@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<!-- <clothingItem> -->
+<clothingItem>
 	<!-- <m_MaleModel>static\clothes\m_visorhat</m_MaleModel> -->
 	<!-- <m_FemaleModel>static\clothes\f_visor</m_FemaleModel> -->
 	<!-- <m_GUID>3d9930a6-2732-4d19-8701-17a94ed575a2</m_GUID> -->
@@ -10,4 +10,4 @@
 	<!-- <m_HatCategory>Group01</m_HatCategory> -->
 	<!-- <m_MasksFolder>media/textures/Clothes/Hat/Masks</m_MasksFolder> -->
 	<!-- <textureChoices>visorstripe_red</textureChoices> -->
-<!-- </clothingItem> -->
+</clothingItem>
