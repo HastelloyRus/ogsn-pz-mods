@@ -42,7 +42,7 @@ WindResistance = 0.30,
 }
 item Vest_Hunting_Grey {
 Type = Clothing,
-DisplayName = Grey Hunting Vest,
+DisplayName = Hunting Vest - Colors,
 ClothingItem = Vest_Hunting_Grey,
 BodyLocation = TorsoExtra,
 Icon = Huntingvest_Grey,
