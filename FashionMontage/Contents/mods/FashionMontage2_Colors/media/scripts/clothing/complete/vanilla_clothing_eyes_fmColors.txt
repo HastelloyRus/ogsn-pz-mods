@@ -1,7 +1,7 @@
 module Base {
 item Glasses_Normal {
 Type = Clothing,
-DisplayName = Glasses,
+DisplayName =  Glasses,
 ClothingItem = Glasses_Normal,
 BodyLocation = Eyes,
 IconsForTexture = GlassesBlack,
@@ -11,7 +11,7 @@ ChanceToFall = 50,
 
 item Glasses_Reading {
 Type = Clothing,
-DisplayName = Glasses - Reading,
+DisplayName =  Glasses - Reading,
 ClothingItem = Glasses_Reading,
 BodyLocation = Eyes,
 IconsForTexture = GlassesReading,
@@ -20,7 +20,7 @@ ChanceToFall = 50,
 }
 item Glasses_SafetyGoggles {
 Type = Clothing,
-DisplayName = Goggles - Safety,
+DisplayName =  Goggles - Safety,
 ClothingItem = Glasses_SafetyGoggles,
 BodyLocation = Eyes,
 Icon = SafetyGoggles,
@@ -29,7 +29,7 @@ ChanceToFall = 20,
 }
 item Glasses_Shooting {
 Type = Clothing,
-DisplayName = Glasses,
+DisplayName =  Goggles - Shooting,
 ClothingItem = Glasses_Shooting,
 BodyLocation = Eyes,
 Icon = ShootingGlasses,
@@ -38,7 +38,7 @@ ChanceToFall = 20,
 }
 item Glasses_SkiGoggles {
 Type = Clothing,
-DisplayName = Ski Goggles - White,
+DisplayName =  Goggles - Skiing (Light),
 ClothingItem = Glasses_SkiGoggles,
 BodyLocation = Eyes,
 IconsForTexture = SkiGogglesWhite,
@@ -47,7 +47,7 @@ ChanceToFall = 20,
 }
 item Glasses {
 Type = Clothing,
-DisplayName = Ski Goggles - Black,
+DisplayName = Goggles - Skiing (Dark),
 ClothingItem = Glasses,
 BodyLocation = Eyes,
 Icon = SkiGogglesBlack,
