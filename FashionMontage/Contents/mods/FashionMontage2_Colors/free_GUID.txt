@@ -54,3 +54,4 @@ Shoes_Brown : c0a3a194-2ee9-4ce5-9d7a-aa1d5e031cea
 
 Tshirt_CamoDesert : 4200bb51-b2b7-4379-93fa-3036534c4295
 Trousers_camodesert: 94c07af5-2e55-4a1d-9637-6b2326578e7f
+shirt_camodesert: a9957692-c412-4270-83b9-f29692f6a881
