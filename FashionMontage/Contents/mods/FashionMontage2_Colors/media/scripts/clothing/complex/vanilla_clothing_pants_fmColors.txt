@@ -73,23 +73,10 @@ Insulation = 0.65,
 WindResistance = 0.60,
 FabricType = Denim,
 }
-item Trousers_CamoDesert {
-Type = Clothing,
-DisplayName = Military Desert Camo Pants,
-ClothingItem = Trousers_CamoDesert,
-BodyLocation = Pants,
-Icon = TrousersCamoSand,
-BloodLocation = Trousers,
-BiteDefense = 10,
-ScratchDefense = 20,
-Insulation = 0.3,
-WindResistance = 0.1,
-FabricType = Cotton,
-}
 item Trousers_CamoGreen {
 Type = Clothing,
 DisplayName = Military Camo Pants,
-ClothingItem = Trousers_CamoGreen,
+ClothingItem = Trousers_CamoGreen;TrousersCamoSand;Trousers_CamoUrban,
 BodyLocation = Pants,
 Icon = TrousersCamoGreen,
 BloodLocation = Trousers,
@@ -102,7 +89,7 @@ WaterResistance = 0.45,
  }
 item Trousers_CamoUrban {
 Type = Clothing,
-DisplayName = Military Urban Camo Pants,
+DisplayName = Military Camo Color Pants,
 ClothingItem = Trousers_CamoUrban,
 BodyLocation = Pants,
 Icon = TrousersCamoGrey,

@@ -51,3 +51,6 @@ Hat_BaseballCapKY_Red : ee133478-bfc7-4517-af9b-c9da2148d9fd
 
 Shoes_Black : 593bea3d-c127-4574-ac1e-2197dc56e486
 Shoes_Brown : c0a3a194-2ee9-4ce5-9d7a-aa1d5e031cea
+
+Tshirt_CamoDesert : 4200bb51-b2b7-4379-93fa-3036534c4295
+Trousers_camodesert: 94c07af5-2e55-4a1d-9637-6b2326578e7f
