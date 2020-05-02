@@ -7,8 +7,8 @@ local listHat = {
   "DistinctNames.Hat_BandanaTiedTINT",
   "DistinctNames.Hat_BaseballCap",
   "DistinctNames.Hat_BaseballCap_Reverse",
-  -- "DistinctNames.Hat_BaseballCapBlue",
-  -- "DistinctNames.Hat_BaseballCapBlue_Reverse",
+  "Base.Hat_BaseballCapBlue", -- this is the solid one
+  "Base.Hat_BaseballCapBlue_Reverse", -- solid
   -- "DistinctNames.Hat_BaseballCapRed",
   -- "DistinctNames.Hat_BaseballCapRed_Reverse",
   -- "DistinctNames.Hat_BaseballCapGreen",
@@ -26,7 +26,7 @@ local listHat = {
   "DistinctNames.Hat_EarMuffs",
   "DistinctNames.Hat_EarMuff_Protectors",
   "DistinctNames.Hat_Fedora",
-  -- "DistinctNames.Hat_Fedora_Delmonte",
+  "Base.Hat_Fedora_Delmonte",
   "DistinctNames.Hat_Ranger",
   "DistinctNames.Hat_Police_Grey",
   "DistinctNames.Hat_Police",

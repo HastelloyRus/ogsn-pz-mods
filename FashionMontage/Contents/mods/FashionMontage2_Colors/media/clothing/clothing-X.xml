@@ -3009,7 +3009,7 @@
 			<probability>0.2</probability>
 			<itemGUID>93c9d8b6-3382-4a16-a248-609a702d57b5</itemGUID>
 			<subItems>
-				<itemGUID>FEDORA_DELMONTE_GUID</itemGUID>
+				<itemGUID>93c9d8b6-3382-4a16-a248-609a702d57b5</itemGUID>
 			</subItems>
 		</m_items>
 	</m_MaleOutfits>
@@ -5134,7 +5134,7 @@
 			<probability>0.2</probability>
 			<itemGUID>93c9d8b6-3382-4a16-a248-609a702d57b5</itemGUID>
 			<subItems>
-				<itemGUID>FEDORA_DELMONTE_GUID</itemGUID>
+				<itemGUID>93c9d8b6-3382-4a16-a248-609a702d57b5</itemGUID>
 			</subItems>
 			<subItems>
 				<itemGUID>aea918c3-0928-404f-a24e-43c4b28cc640</itemGUID>
