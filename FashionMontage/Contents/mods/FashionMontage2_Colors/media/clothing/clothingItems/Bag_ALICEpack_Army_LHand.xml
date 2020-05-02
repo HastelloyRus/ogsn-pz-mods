@@ -5,7 +5,7 @@
 	<m_GUID>53b8b58e-6f38-47a9-877f-f657880ba7f6</m_GUID>
 	<m_Static>false</m_Static>
 	<m_AllowRandomHue>false</m_AllowRandomHue>
-	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AllowRandomTint>true</m_AllowRandomTint>
 	<m_AttachBone></m_AttachBone>
-	<textureChoices>alicepack_camo</textureChoices>
+	<textureChoices>alicepack_camo_colors</textureChoices>
 </clothingItem>

@@ -4,7 +4,7 @@
 	<m_FemaleModel>skinned\backpacks\f_alice_pack</m_FemaleModel>
 	<m_GUID>8b3f943c-e903-431b-bf8d-8f2eb86c9ef3</m_GUID>
 	<m_Static>false</m_Static>
-	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AllowRandomTint>true</m_AllowRandomTint>
 	<m_AttachBone></m_AttachBone>
-	<textureChoices>alicepack_green</textureChoices>
+	<textureChoices>alicepack_colors</textureChoices>
 </clothingItem>
