@@ -1,21 +1,67 @@
 module Base {
+item Glasses_Normal {
+Type = Clothing,
+DisplayName = Glasses,
+ClothingItem = Glasses_Normal,
+BodyLocation = Eyes,
+IconsForTexture = GlassesBlack,
+Weight = 0.1,
+ChanceToFall = 50,
+}
+
+item Glasses_Reading {
+Type = Clothing,
+DisplayName = Glasses - Reading,
+ClothingItem = Glasses_Reading,
+BodyLocation = Eyes,
+IconsForTexture = GlassesReading,
+Weight = 0.1,
+ChanceToFall = 50,
+}
+item Glasses_SafetyGoggles {
+Type = Clothing,
+DisplayName = Goggles - Safety,
+ClothingItem = Glasses_SafetyGoggles,
+BodyLocation = Eyes,
+Icon = SafetyGoggles,
+Weight = 0.1,
+ChanceToFall = 20,
+}
+item Glasses_Shooting {
+Type = Clothing,
+DisplayName = Glasses,
+ClothingItem = Glasses_Shooting,
+BodyLocation = Eyes,
+Icon = ShootingGlasses,
+Weight = 0.1,
+ChanceToFall = 20,
+}
+item Glasses_SkiGoggles {
+Type = Clothing,
+DisplayName = Ski Goggles - White,
+ClothingItem = Glasses_SkiGoggles,
+BodyLocation = Eyes,
+IconsForTexture = SkiGogglesWhite,
+Weight = 0.1,
+ChanceToFall = 20,
+}
 item Glasses {
 Type = Clothing,
-DisplayName = Ski Goggles - Tint,
+DisplayName = Ski Goggles - Black,
 ClothingItem = Glasses,
 BodyLocation = Eyes,
 Icon = SkiGogglesBlack,
 Weight = 0.1,
 ChanceToFall = 20,
 }
-item Glasses_SkiGoggles {
+item Glasses_SwimmingGoggles {
 Type = Clothing,
-DisplayName = Ski Goggles - Shade,
-ClothingItem = Glasses_SkiGoggles,
+DisplayName = Swimming Goggles,
+ClothingItem = Glasses_SwimmingGoggles,
 BodyLocation = Eyes,
-IconsForTexture = SkiGogglesWhite,
+Icon = SwimmingGoggles,
 Weight = 0.1,
-ChanceToFall = 20,
+ChanceToFall = 30,
 }
 item Glasses_Aviators {
 Type = Clothing,
@@ -26,43 +72,6 @@ Icon = GlassesAviator,
 Weight = 0.1,
 ChanceToFall = 50,
 }
-item Glasses_Normal {
-Type = Clothing,
-DisplayName = Glasses,
-ClothingItem = Glasses_Normal,
-BodyLocation = Eyes,
-IconsForTexture = GlassesBlack,
-Weight = 0.1,
-ChanceToFall = 50,
-}
-item Glasses_Reading {
-Type = Clothing,
-DisplayName = Reading Glasses,
-ClothingItem = Glasses_Reading,
-BodyLocation = Eyes,
-IconsForTexture = GlassesReading,
-Weight = 0.1,
-ChanceToFall = 50,
-}
-item Glasses_SafetyGoggles {
-Type = Clothing,
-DisplayName = Safety Goggles,
-ClothingItem = Glasses_SafetyGoggles,
-BodyLocation = Eyes,
-Icon = SafetyGoggles,
-Weight = 0.1,
-ChanceToFall = 20,
-}
-item Glasses_Shooting {
-Type = Clothing,
-DisplayName = Shooting Glasses,
-ClothingItem = Glasses_Shooting,
-BodyLocation = Eyes,
-Icon = ShootingGlasses,
-Weight = 0.1,
-ChanceToFall = 20,
-}
-
 item Glasses_Sun {
 Type = Clothing,
 DisplayName = Sunglasses,
@@ -71,14 +80,5 @@ BodyLocation = Eyes,
 Icon = GlassesSun,
 Weight = 0.1,
 ChanceToFall = 50,
-}
-item Glasses_SwimmingGoggles {
-Type = Clothing,
-DisplayName = Swimming Goggles,
-ClothingItem = Glasses_SwimmingGoggles,
-BodyLocation = Eyes,
-Icon = SwimmingGoggles,
-Weight = 0.1,
-ChanceToFall = 30,
 }
 }
