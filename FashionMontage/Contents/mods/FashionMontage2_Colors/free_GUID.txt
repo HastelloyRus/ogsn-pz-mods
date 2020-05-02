@@ -16,3 +16,4 @@ Hat_SurgicalCap_Blue : 9f6264ee-36ea-4064-86b4-f4ce102ba5d6
 Hat_SurgicalMask_Blue : 6ef9ba72-73e6-4373-8d29-6beddf2274a5
 Hat_VisorBlack : d2496708-62e1-4ffc-8682-0a2af7d0db9b
 Hat_VisorRed : 3d9930a6-2732-4d19-8701-17a94ed575a2
+Jacket_NavyBlue : 0ab6a4b8-4dcf-4ee0-9e5a-c6304652568a

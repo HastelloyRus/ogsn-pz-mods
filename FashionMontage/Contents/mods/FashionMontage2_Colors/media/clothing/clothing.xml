@@ -44,7 +44,7 @@
 		</m_items>
 		<m_items>
 			<probability>0.5</probability>
-			<itemGUID>0ab6a4b8-4dcf-4ee0-9e5a-c6304652568a</itemGUID>
+			<itemGUID>Jacket_NavyBlue_GUID</itemGUID>
 		</m_items>
 		<m_items>
 			<itemGUID>ac7976de-2c73-44ea-9392-5d24ac1fb649</itemGUID>
@@ -2567,7 +2567,7 @@
 		</m_items>
 		<m_items>
 			<probability>0.5</probability>
-			<itemGUID>0ab6a4b8-4dcf-4ee0-9e5a-c6304652568a</itemGUID>
+			<itemGUID>Jacket_NavyBlue_GUID</itemGUID>
 		</m_items>
 		<m_items>
 			<itemGUID>ac7976de-2c73-44ea-9392-5d24ac1fb649</itemGUID>
