@@ -4,4 +4,8 @@ item Hat_HardHat_Miner {Type = Normal}
 item Shorts_LongSport_Red {Type = Normal}
 item Hat_Fedora_Delmonte {Type = Normal}
 item Male_Undies {Type = Normal}
+item Hat_SurgicalCap_Blue {Type = Normal}
+item Hat_SurgicalMask_Blue {Type = Normal}
+item Hat_VisorBlack {Type = Normal}
+item Hat_VisorRed {Type = Normal}
 }

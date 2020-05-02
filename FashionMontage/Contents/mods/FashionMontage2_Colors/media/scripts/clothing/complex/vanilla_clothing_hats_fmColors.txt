@@ -407,39 +407,12 @@ BloodLocation = Head,
 Insulation = 0.1,
 WindResistance = 0.1,
 }
-item Hat_SurgicalCap_Blue {
-Type = Clothing,
-DisplayName = Medical Cap,
-ClothingItem = Hat_SurgicalCap_Blue,
-BodyLocation = Hat,
-Icon = SurgicalCapBlue,
-CanHaveHoles = false,
-ChanceToFall = 80,
-}
 item Hat_SurgicalCap_Green {
 Type = Clothing,
 DisplayName = Medical Cap,
 ClothingItem = Hat_SurgicalCap_Green,
 BodyLocation = Hat,
 Icon = SurgicalCapGreen,
-CanHaveHoles = false,
-ChanceToFall = 80,
-}
-item Hat_VisorBlack {
-Type = Clothing,
-DisplayName = Visor,
-ClothingItem = Hat_VisorBlack,
-BodyLocation = Hat,
-Icon = HatVisorBlack,
-CanHaveHoles = false,
-ChanceToFall = 80,
-}
-item Hat_VisorRed {
-Type = Clothing,
-DisplayName = Visor,
-ClothingItem = Hat_VisorRed,
-BodyLocation = Hat,
-Icon = HatVisorRed,
 CanHaveHoles = false,
 ChanceToFall = 80,
 }

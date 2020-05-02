@@ -38,11 +38,11 @@
     green cap:  <m_GUID>c617853e-dd00-443e-952a-7b910150c410</m_GUID>
     blue cap:   <m_GUID>9f6264ee-36ea-4064-86b4-f4ce102ba5d6</m_GUID>
 
-    blue mask:  <m_GUID>6ef9ba72-73e6-4373-8d29-6beddf2274a5</m_GUID>
     green mask: <m_GUID>b73fbbc8-f390-4b5a-ad4f-b24239c185e1</m_GUID>
+    blue mask:  <m_GUID>6ef9ba72-73e6-4373-8d29-6beddf2274a5</m_GUID>
 
   Static Visors:
-    d2496708-62e1-4ffc-8682-0a2af7d0db9b (red)
+    3d9930a6-2732-4d19-8701-17a94ed575a2 (red)
     d2496708-62e1-4ffc-8682-0a2af7d0db9b (black)
 
   jacket_navyblue:

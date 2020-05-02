@@ -1143,10 +1143,10 @@
 				<itemGUID>7b339ad5-da2e-42a5-8a51-ee87239a943c</itemGUID>
 			</subItems>
 			<subItems>
-				<itemGUID>d2496708-62e1-4ffc-8682-0a2af7d0db9b</itemGUID>
+				<itemGUID>Hat_VisorBlack_GUID</itemGUID>
 			</subItems>
 			<subItems>
-				<itemGUID>3d9930a6-2732-4d19-8701-17a94ed575a2</itemGUID>
+				<itemGUID>Hat_VisorRed_GUID</itemGUID>
 			</subItems>
 		</m_items>
 		<m_items>
@@ -1344,7 +1344,7 @@
 		</m_items>
 		<m_items>
 			<probability>0.3</probability>
-			<itemGUID>9f6264ee-36ea-4064-86b4-f4ce102ba5d6</itemGUID>
+			<itemGUID>Hat_SurgicalCap_Blue_GUID</itemGUID>
 			<subItems>
 				<itemGUID>c617853e-dd00-443e-952a-7b910150c410</itemGUID>
 			</subItems>
@@ -1353,7 +1353,7 @@
 			<probability>0.1</probability>
 			<itemGUID>b73fbbc8-f390-4b5a-ad4f-b24239c185e1</itemGUID>
 			<subItems>
-				<itemGUID>6ef9ba72-73e6-4373-8d29-6beddf2274a5</itemGUID>
+				<itemGUID>Hat_SurgicalMask_Blue_GUID</itemGUID>
 			</subItems>
 		</m_items>
 		<m_items>
@@ -2182,7 +2182,7 @@
 		</m_items>
 		<m_items>
 			<probability>0.2</probability>
-			<itemGUID>d2496708-62e1-4ffc-8682-0a2af7d0db9b</itemGUID>
+			<itemGUID>Hat_VisorBlack_GUID</itemGUID>
 			<subItems>
 				<itemGUID>f2467000-e675-458c-9f63-5cc2f0ed0f3f</itemGUID>
 			</subItems>
@@ -2190,7 +2190,7 @@
 				<itemGUID>aea918c3-0928-404f-a24e-43c4b28cc640</itemGUID>
 			</subItems>
 			<subItems>
-				<itemGUID>3d9930a6-2732-4d19-8701-17a94ed575a2</itemGUID>
+				<itemGUID>Hat_VisorRed_GUID</itemGUID>
 			</subItems>
 		</m_items>
 	</m_FemaleOutfits>
@@ -3737,10 +3737,10 @@
 				<itemGUID>7b339ad5-da2e-42a5-8a51-ee87239a943c</itemGUID>
 			</subItems>
 			<subItems>
-				<itemGUID>d2496708-62e1-4ffc-8682-0a2af7d0db9b</itemGUID>
+				<itemGUID>Hat_VisorBlack_GUID</itemGUID>
 			</subItems>
 			<subItems>
-				<itemGUID>3d9930a6-2732-4d19-8701-17a94ed575a2</itemGUID>
+				<itemGUID>Hat_VisorRed_GUID</itemGUID>
 			</subItems>
 		</m_items>
 		<m_items>
@@ -4176,7 +4176,7 @@
 		</m_items>
 		<m_items>
 			<probability>0.3</probability>
-			<itemGUID>9f6264ee-36ea-4064-86b4-f4ce102ba5d6</itemGUID>
+			<itemGUID>Hat_SurgicalCap_Blue_GUID</itemGUID>
 			<subItems>
 				<itemGUID>c617853e-dd00-443e-952a-7b910150c410</itemGUID>
 			</subItems>
@@ -4185,7 +4185,7 @@
 			<probability>0.1</probability>
 			<itemGUID>b73fbbc8-f390-4b5a-ad4f-b24239c185e1</itemGUID>
 			<subItems>
-				<itemGUID>6ef9ba72-73e6-4373-8d29-6beddf2274a5</itemGUID>
+				<itemGUID>Hat_SurgicalMask_Blue_GUID</itemGUID>
 			</subItems>
 		</m_items>
 		<m_items>
@@ -4259,12 +4259,12 @@
 			<itemGUID>7741404b-9689-4608-a0f5-4e06597776f9</itemGUID>
 		</m_items>
 		<m_items>
-			<itemGUID>d2496708-62e1-4ffc-8682-0a2af7d0db9b</itemGUID>
+			<itemGUID>Hat_VisorBlack_GUID</itemGUID>
 			<subItems>
 				<itemGUID>aea918c3-0928-404f-a24e-43c4b28cc640</itemGUID>
 			</subItems>
 			<subItems>
-				<itemGUID>3d9930a6-2732-4d19-8701-17a94ed575a2</itemGUID>
+				<itemGUID>Hat_VisorRed_GUID</itemGUID>
 			</subItems>
 		</m_items>
 		<m_items>
@@ -5140,10 +5140,10 @@
 				<itemGUID>aea918c3-0928-404f-a24e-43c4b28cc640</itemGUID>
 			</subItems>
 			<subItems>
-				<itemGUID>d2496708-62e1-4ffc-8682-0a2af7d0db9b</itemGUID>
+				<itemGUID>Hat_VisorBlack_GUID</itemGUID>
 			</subItems>
 			<subItems>
-				<itemGUID>3d9930a6-2732-4d19-8701-17a94ed575a2</itemGUID>
+				<itemGUID>Hat_VisorRed_GUID</itemGUID>
 			</subItems>
 		</m_items>
 		<m_items>

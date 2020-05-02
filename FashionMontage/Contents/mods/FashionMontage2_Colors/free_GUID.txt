@@ -12,3 +12,7 @@ Bag_DuffelBag : b02d3217-b692-4035-8a61-8c4305998464
 Bag_DuffelBag_LHand : 2f9833c0-8b1d-48f9-a30f-e66b99132cde
 Bag_DuffelBag_RHand : d90ed5ae-6867-485b-b49f-88801bea0bc9
 Fedora_Delmonte : 6b4e91cf-0de7-41d8-b144-95a975e31669
+Hat_SurgicalCap_Blue : 9f6264ee-36ea-4064-86b4-f4ce102ba5d6
+Hat_SurgicalMask_Blue : 6ef9ba72-73e6-4373-8d29-6beddf2274a5
+Hat_VisorBlack : d2496708-62e1-4ffc-8682-0a2af7d0db9b
+Hat_VisorRed : 3d9930a6-2732-4d19-8701-17a94ed575a2
