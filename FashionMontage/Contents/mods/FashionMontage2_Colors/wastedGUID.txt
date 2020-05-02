@@ -99,8 +99,8 @@
       (12 GUIDS, 10 currently so need two more)
 
   Specific Color Trainers:
-    Shoes_RedTrainers <m_GUID>b6bb377a-6b18-407a-8e9f-edf949fb1fe1</m_GUID>
-    Shoes_BlueTrainers <m_BaseTextures>clothes\shoes_socks_textres\trainers_blue</m_BaseTextures>
+    Shoes_RedTrainers b6bb377a-6b18-407a-8e9f-edf949fb1fe1
+    Shoes_BlueTrainers 95047b8a-0248-46ad-af29-cde76530915b
 
 
   Specific Colored Baseball Caps:

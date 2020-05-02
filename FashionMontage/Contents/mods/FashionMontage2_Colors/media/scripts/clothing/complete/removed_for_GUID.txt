@@ -29,4 +29,6 @@ item Shirt_Jockey04 {} // e455a4a5-15c7-4a32-99a1-3f08950a549a
 item Shirt_Jockey05 {} // 84d47569-4a26-465d-8e9a-8418deb33f0b
 item Shirt_Jockey06 {} // b6373a7a-7404-4127-9da4-d603dd094236
 
+item Shoes_RedTrainers {} // b6bb377a-6b18-407a-8e9f-edf949fb1fe1
+item Shoes_BlueTrainers {} // 95047b8a-0248-46ad-af29-cde76530915b
 }

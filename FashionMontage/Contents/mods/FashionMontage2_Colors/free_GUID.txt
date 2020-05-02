@@ -31,3 +31,12 @@ Hat_JockeyHelmet06 : 082b9eff-96d2-4928-88e8-414d34ced2bb
 SwimTrunks_Red : e525cc52-cf30-45df-adc7-19706c019673
 SwimTrunks_Green : 01e4a480-9178-46aa-ad16-001580971665
 SwimTrunks_Yellow : 2587e4f8-1e7f-4793-ad11-dd4b96ea7359
+
+Shirt_Jockey02 : 5b1bd1bf-d8a3-498f-bd72-4240420fd9c2
+Shirt_Jockey03 : 1ea53e74-d1c3-4d51-9197-97fa64857fe1
+Shirt_Jockey04 : e455a4a5-15c7-4a32-99a1-3f08950a549a
+Shirt_Jockey05 : 84d47569-4a26-465d-8e9a-8418deb33f0b
+Shirt_Jockey06 : b6373a7a-7404-4127-9da4-d603dd094236
+
+Shoes_RedTrainers : b6bb377a-6b18-407a-8e9f-edf949fb1fe1
+Shoes_BlueTrainers : 95047b8a-0248-46ad-af29-cde76530915b
