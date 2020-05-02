@@ -39,4 +39,7 @@ item Hat_BaseballCapGreen_Reverse {} // f1766ddb-1fdc-4a4c-b26b-5a5aacb209a2
 item Hat_BaseballCapRed {} // 3dff8ffe-20d7-4b9b-80b4-9cfb550c67b6
 item Hat_BaseballCapRed_Reverse {} // 92ff40a4-6756-40fc-a453-fb7764df0e23
 item Hat_BaseballCapKY_Red {} // ee133478-bfc7-4517-af9b-c9da2148d9fd
+
+item Shoes_Black {} // 593bea3d-c127-4574-ac1e-2197dc56e486
+item Shoes_Brown {} // c0a3a194-2ee9-4ce5-9d7a-aa1d5e031cea
 }

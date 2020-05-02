@@ -102,6 +102,10 @@
     Shoes_RedTrainers b6bb377a-6b18-407a-8e9f-edf949fb1fe1
     Shoes_BlueTrainers 95047b8a-0248-46ad-af29-cde76530915b
 
+  Specific Color Random Shoes:
+    Shoes_Black 593bea3d-c127-4574-ac1e-2197dc56e486
+    Shoes_Brown c0a3a194-2ee9-4ce5-9d7a-aa1d5e031cea
+        both should be Shoes_Random aka 7741404b-9689-4608-a0f5-4e06597776f9
 
   Specific Colored Baseball Caps:
       GOOD:
