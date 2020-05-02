@@ -31,4 +31,12 @@ item Shirt_Jockey06 {} // b6373a7a-7404-4127-9da4-d603dd094236
 
 item Shoes_RedTrainers {} // b6bb377a-6b18-407a-8e9f-edf949fb1fe1
 item Shoes_BlueTrainers {} // 95047b8a-0248-46ad-af29-cde76530915b
+
+item Hat_BaseballCapBlue {} // 3db63ccb-9014-45c2-bb9c-287ca24e335b
+item Hat_BaseballCapBlue_Reverse {} // 17b078c1-dc3e-4b8f-a3e1-191c9d4efaa8
+item Hat_BaseballCapGreen {} // fce4e0fd-047d-483a-ad43-873e4440c3aa
+item Hat_BaseballCapGreen_Reverse {} // f1766ddb-1fdc-4a4c-b26b-5a5aacb209a2
+item Hat_BaseballCapRed {} // 3dff8ffe-20d7-4b9b-80b4-9cfb550c67b6
+item Hat_BaseballCapRed_Reverse {} // 92ff40a4-6756-40fc-a453-fb7764df0e23
+item Hat_BaseballCapKY_Red {} // ee133478-bfc7-4517-af9b-c9da2148d9fd
 }

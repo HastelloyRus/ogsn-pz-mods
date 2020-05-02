@@ -830,7 +830,7 @@
 		</m_items>
 		<m_items>
 			<probability>0.2</probability>
-			<itemGUID>3db63ccb-9014-45c2-bb9c-287ca24e335b</itemGUID>
+			<itemGUID>7b339ad5-da2e-42a5-8a51-ee87239a943c</itemGUID>
 		</m_items>
 	</m_FemaleOutfits>
 	<m_FemaleOutfits>
@@ -861,7 +861,7 @@
 		</m_items>
 		<m_items>
 			<probability>0.3</probability>
-			<itemGUID>3dff8ffe-20d7-4b9b-80b4-9cfb550c67b6</itemGUID>
+			<itemGUID>7b339ad5-da2e-42a5-8a51-ee87239a943c</itemGUID>
 		</m_items>
 	</m_FemaleOutfits>
 	<m_FemaleOutfits>
@@ -1542,7 +1542,7 @@
 			<itemGUID>7741404b-9689-4608-a0f5-4e06597776f9</itemGUID>
 		</m_items>
 		<m_items>
-			<itemGUID>3db63ccb-9014-45c2-bb9c-287ca24e335b</itemGUID>
+			<itemGUID>7b339ad5-da2e-42a5-8a51-ee87239a943c</itemGUID>
 		</m_items>
 		<m_items>
 			<itemGUID>fb86bd5f-1931-4b24-a5d7-bd6a43769991</itemGUID>
@@ -1818,9 +1818,9 @@
 		</m_items>
 		<m_items>
 			<probability>0.5</probability>
-			<itemGUID>3dff8ffe-20d7-4b9b-80b4-9cfb550c67b6</itemGUID>
+			<itemGUID>7b339ad5-da2e-42a5-8a51-ee87239a943c</itemGUID>
 			<subItems>
-				<itemGUID>ee133478-bfc7-4517-af9b-c9da2148d9fd</itemGUID>
+				<itemGUID>7b339ad5-da2e-42a5-8a51-ee87239a943c</itemGUID>
 			</subItems>
 			<subItems>
 				<itemGUID>92ff40a4-6756-40fc-a453-fb7764df0e23</itemGUID>
@@ -3423,7 +3423,7 @@
 		</m_items>
 		<m_items>
 			<probability>0.2</probability>
-			<itemGUID>3db63ccb-9014-45c2-bb9c-287ca24e335b</itemGUID>
+			<itemGUID>7b339ad5-da2e-42a5-8a51-ee87239a943c</itemGUID>
 		</m_items>
 	</m_MaleOutfits>
 	<m_MaleOutfits>
@@ -3454,7 +3454,7 @@
 		</m_items>
 		<m_items>
 			<probability>0.3</probability>
-			<itemGUID>3dff8ffe-20d7-4b9b-80b4-9cfb550c67b6</itemGUID>
+			<itemGUID>7b339ad5-da2e-42a5-8a51-ee87239a943c</itemGUID>
 		</m_items>
 	</m_MaleOutfits>
 	<m_MaleOutfits>
@@ -4079,7 +4079,7 @@
 		</m_items>
 		<m_items>
 			<probability>0.3</probability>
-			<itemGUID>fce4e0fd-047d-483a-ad43-873e4440c3aa</itemGUID>
+			<itemGUID>7b339ad5-da2e-42a5-8a51-ee87239a943c</itemGUID>
 			<subItems>
 				<itemGUID>ad6b1b95-a4ea-4a59-8a9e-997053b502f9</itemGUID>
 			</subItems>
@@ -4442,7 +4442,7 @@
 			<itemGUID>7741404b-9689-4608-a0f5-4e06597776f9</itemGUID>
 		</m_items>
 		<m_items>
-			<itemGUID>3db63ccb-9014-45c2-bb9c-287ca24e335b</itemGUID>
+			<itemGUID>7b339ad5-da2e-42a5-8a51-ee87239a943c</itemGUID>
 		</m_items>
 		<m_items>
 			<itemGUID>fb86bd5f-1931-4b24-a5d7-bd6a43769991</itemGUID>
@@ -4798,9 +4798,9 @@
 		</m_items>
 		<m_items>
 			<probability>0.5</probability>
-			<itemGUID>3dff8ffe-20d7-4b9b-80b4-9cfb550c67b6</itemGUID>
+			<itemGUID>7b339ad5-da2e-42a5-8a51-ee87239a943c</itemGUID>
 			<subItems>
-				<itemGUID>ee133478-bfc7-4517-af9b-c9da2148d9fd</itemGUID>
+				<itemGUID>7b339ad5-da2e-42a5-8a51-ee87239a943c</itemGUID>
 			</subItems>
 			<subItems>
 				<itemGUID>92ff40a4-6756-40fc-a453-fb7764df0e23</itemGUID>
