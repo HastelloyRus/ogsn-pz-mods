@@ -13,7 +13,7 @@ WindResistance = 1.0,
 }
 item Scarf_StripeBlackWhite {
 Type = Clothing,
-DisplayName = Scarf,
+DisplayName = Striped Scarf,
 ClothingItem = Scarf_StripeBlackWhite,
 BodyLocation = Scarf,
 Icon = ScarfStripedBlack,
