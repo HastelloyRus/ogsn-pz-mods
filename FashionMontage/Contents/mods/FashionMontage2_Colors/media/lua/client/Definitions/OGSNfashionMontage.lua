@@ -11,16 +11,12 @@ local listTankTop = {
   "Base.Vest_DefaultTEXTURE_TINT",
 }
 local listTshirt = {
-  "Base.Tshirt_DefaultTEXTURE",
   "Base.Tshirt_DefaultTEXTURE_TINT",
   "Base.Tshirt_WhiteTINT",
-  "Base.Tshirt_WhiteLongSleeve",
   "Base.Tshirt_WhiteLongSleeveTINT",
   "Base.Tshirt_PoloStripedTINT",
   "Base.Tshirt_PoloTINT",
-  "Base.Tshirt_DefaultDECAL",
   "Base.Tshirt_DefaultDECAL_TINT",
-  "Base.Tshirt_SportDECAL",
   "Base.Tshirt_Rock",
   "Base.Tshirt_Sport",
   "Base.Tshirt_ArmyGreen",
@@ -77,8 +73,6 @@ local listSocks = {
 }
 local listPants = {
   "Base.Shorts_ShortFormal",
-  "Base.Trousers_WhiteTEXTURE",
-  "Base.Trousers_WhiteTINT",
   "Base.Trousers_Denim",
   "Base.Trousers_JeanBaggy",
   "Base.TrousersMesh_DenimLight",
@@ -98,7 +92,6 @@ local listPants = {
   "Base.Trousers_SantaGReen",
   "Base.Trousers_Scrubs",
   "Base.Trousers_Suit",
-  "Base.Trousers_SuitTEXTURE",
   "Base.Trousers_SuitWhite",
   "Base.Trousers_Padded",
   "Base.Shorts_CamoGreenLong",
@@ -107,7 +100,6 @@ local listPants = {
   "Base.Shorts_ShortSport",
   "Base.Shorts_LongSport",
   "Base.Shorts_LongSport_Red",
-  "Base.Trousers",
   "Base.Trousers_Black",
 }
 local listSkirt = {
