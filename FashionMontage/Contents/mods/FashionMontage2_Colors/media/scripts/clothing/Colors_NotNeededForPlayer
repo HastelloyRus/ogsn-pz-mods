@@ -32,4 +32,24 @@ BodyLocation = Belt
 ClothingItem = Belt
 AttachmentsProvided = SmallBeltLeft;SmallBeltRight
 }
+item Jacket_NavyBlue {
+Type = Clothing,
+DisplayName = Jacket,
+ClothingItem = Jacket_NavyBlue,
+BodyLocation = Jacket,
+Icon = Jacket_White,
+BloodLocation = Jacket,
+RunSpeedModifier = 0.95,
+ColorRed = 37,
+ColorGreen = 37,
+ColorBlue = 70,
+BiteDefense = 20,
+ScratchDefense = 30,
+NeckProtectionModifier = 0.5,
+Insulation = 0.5,
+WindResistance = 0.60,
+FabricType = Cotton,
+WaterResistance = 0.25,
+Weight = 2,
+}
 }
