@@ -1,0 +1,16 @@
+Riot helmet looks dumb like this
+Pilot helmet looks okay but opportunity for crazy shit
+
+Get rid of rock shirt
+Sport T-shirt doesn't let you manually change
+Military t-shirt has no choices, decals, anything
+green camo tee doesn't let you choose
+urban camo tee has wrong name, and could probably use a better texture for colors
+
+
+Pants
+Make denim pants the rainbow one
+Player doesn't need "military pants" they're just pants
+Desert camo still has its own line item
+camo pants don't let you choose, and one of the random rolls is generating an error
+rainbow camo has the wrong name (urban), but looks good
