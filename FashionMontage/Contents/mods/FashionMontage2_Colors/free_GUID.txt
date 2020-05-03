@@ -16,11 +16,12 @@ Hat_SurgicalMask_Blue : 6ef9ba72-73e6-4373-8d29-6beddf2274a5
 Hat_VisorBlack : d2496708-62e1-4ffc-8682-0a2af7d0db9b
 Hat_VisorRed : 3d9930a6-2732-4d19-8701-17a94ed575a2
 
-PonchoGreen : 502bfde1-2263-4368-aded-6889e964bbeb
+PonchoGreen : 502bfde1-2263-4368-aded-6889e964bbeb : now used for second varsity jacket
 PonchoGreenDOWN : 2cfe07c1-329a-479a-9974-c73742e13be1
 Scarf_StripeBlueWhite : 1f5ca3c2-49b1-4a98-aec3-6e542ad09f3e
 Scarf_StripeRedWhite : de34608d-c152-4944-8f42-ea4ea6f067b2
-Hat_JockeyHelmet01 : e27317be-c4eb-4329-9e1a-8c22c2c4f812 : Hat_JockeyHelmet01 (used as catch all jockey helmet)
+
+<!--The jockey helmets now all fall under Hat_JockeyHelmet01 aka e27317be-c4eb-4329-9e1a-8c22c2c4f812  -->
 Hat_JockeyHelmet02 : 48d4f5b3-30f8-4219-b8c6-07b2065042d8
 Hat_JockeyHelmet03 : b7502ccb-7893-4c77-bcfd-43e88fae6654
 Hat_JockeyHelmet04 : 9a84caf4-28e6-4c7c-8593-49cad0fc0ad1
@@ -31,8 +32,9 @@ SwimTrunks_Red : e525cc52-cf30-45df-adc7-19706c019673
 SwimTrunks_Green : 01e4a480-9178-46aa-ad16-001580971665
 SwimTrunks_Yellow : 2587e4f8-1e7f-4793-ad11-dd4b96ea7359
 
-Shirt_Jockey02 : 5b1bd1bf-d8a3-498f-bd72-4240420fd9c2
-Shirt_Jockey03 : 1ea53e74-d1c3-4d51-9197-97fa64857fe1
+<!-- The jockey shirts now all fall under Shirt_Jockey01 aka 65e37ef2-a58e-4c76-b4aa-272ad4546677-->
+Shirt_Jockey02 : 5b1bd1bf-d8a3-498f-bd72-4240420fd9c2 : Now used as colorful Long Leather
+Shirt_Jockey03 : 1ea53e74-d1c3-4d51-9197-97fa64857fe1 : Now used as colorful Short Leather Jacket
 Shirt_Jockey04 : e455a4a5-15c7-4a32-99a1-3f08950a549a
 Shirt_Jockey05 : 84d47569-4a26-465d-8e9a-8418deb33f0b
 Shirt_Jockey06 : b6373a7a-7404-4127-9da4-d603dd094236
@@ -57,5 +59,4 @@ Tshirt_CamoDesert : 4200bb51-b2b7-4379-93fa-3036534c4295
 Trousers_camodesert: 94c07af5-2e55-4a1d-9637-6b2326578e7f
 shirt_camodesert: a9957692-c412-4270-83b9-f29692f6a881
 
-Jacket_Black : 9e094ca7-29b4-4c7d-ae70-597fa4c8a330 : Keeping this but colorizing it
 Jacket_NavyBlue : 0ab6a4b8-4dcf-4ee0-9e5a-c6304652568a
