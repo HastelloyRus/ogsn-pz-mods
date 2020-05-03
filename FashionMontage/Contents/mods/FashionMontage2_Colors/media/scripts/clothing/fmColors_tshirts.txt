@@ -372,4 +372,104 @@ Insulation = 0.30,
 WindResistance = 0.20,
 FabricType = Cotton,
 }
+
+item Tshirt_DefaultDECAL {
+Type = Clothing,
+DisplayName = T-Shirt,
+ClothingItem = Tshirt_DefaultDECAL,
+BodyLocation = Tshirt,
+Icon = TshirtGeneric,
+BloodLocation = Shirt,
+Insulation = 0.2,
+WindResistance = 0.05,
+FabricType = Cotton,
+}
+item Tshirt_DefaultDECAL_TINT {
+Type = Clothing,
+DisplayName = T-Shirt,
+ClothingItem = Tshirt_DefaultDECAL_TINT,
+BodyLocation = Tshirt,
+Icon = TshirtGeneric,
+BloodLocation = Shirt,
+Insulation = 0.2,
+WindResistance = 0.05,
+FabricType = Cotton,
+}
+item Tshirt_DefaultTEXTURE {
+Type = Clothing,
+DisplayName = T-Shirt,
+ClothingItem = Tshirt_DefaultTEXTURE,
+BodyLocation = Tshirt,
+Icon = TshirtGeneric,
+BloodLocation = Shirt,
+Insulation = 0.2,
+WindResistance = 0.05,
+FabricType = Cotton,
+}
+item Tshirt_DefaultTEXTURE_TINT {
+Type = Clothing,
+DisplayName = T-Shirt,
+ClothingItem = Tshirt_DefaultTEXTURE_TINT,
+BodyLocation = Tshirt,
+Icon = TshirtGeneric,
+BloodLocation = Shirt,
+Insulation = 0.2,
+WindResistance = 0.05,
+FabricType = Cotton,
+}
+item Tshirt_PoloStripedTINT {
+Type = Clothing,
+DisplayName = Striped T-Shirt,
+ClothingItem = Tshirt_PoloStripedTINT,
+BodyLocation = Tshirt,
+Icon = TshirtGeneric,
+BloodLocation = Shirt,
+Insulation = 0.2,
+WindResistance = 0.05,
+FabricType = Cotton,
+}
+item Tshirt_PoloTINT {
+Type = Clothing,
+DisplayName = T-Shirt,
+ClothingItem = Tshirt_PoloTINT,
+BodyLocation = Tshirt,
+Icon = TshirtGeneric,
+BloodLocation = Shirt,
+Insulation = 0.2,
+WindResistance = 0.05,
+FabricType = Cotton,
+}
+item Tshirt_WhiteLongSleeve {
+Type = Clothing,
+DisplayName = Long Sleeve T-Shirt,
+ClothingItem = Tshirt_WhiteLongSleeve,
+BodyLocation = Tshirt,
+Icon = ShirtGeneric,
+BloodLocation = ShirtLongSleeves,
+Insulation = 0.3,
+WindResistance = 0.15,
+FabricType = Cotton,
+}
+item Tshirt_WhiteLongSleeveTINT {
+Type = Clothing,
+DisplayName = Long Sleeve T-Shirt,
+ClothingItem = Tshirt_WhiteLongSleeveTINT,
+BodyLocation = Tshirt,
+Icon = ShirtGeneric,
+BloodLocation = ShirtLongSleeves,
+Insulation = 0.3,
+WindResistance = 0.15,
+FabricType = Cotton,
+}
+item Tshirt_WhiteTINT {
+Type = Clothing,
+DisplayName = T-Shirt,
+ClothingItem = Tshirt_WhiteTINT,
+BodyLocation = Tshirt,
+Icon = TshirtGeneric,
+BloodLocation = Shirt,
+Insulation = 0.2,
+WindResistance = 0.05,
+FabricType = Cotton,
+}
 }
