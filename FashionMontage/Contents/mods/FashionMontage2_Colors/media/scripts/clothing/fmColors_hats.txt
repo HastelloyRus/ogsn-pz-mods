@@ -633,7 +633,7 @@ WindResistance = 0.1,
 // NOTE: made this colorful, no more blue version item
 item Hat_SurgicalCap_Green {
 Type = Clothing,
-DisplayName = Surgical Cap,
+DisplayName = Medical Cap,
 ClothingItem = Hat_SurgicalCap_Green,
 BodyLocation = Hat,
 Icon = SurgicalCapGreen,
