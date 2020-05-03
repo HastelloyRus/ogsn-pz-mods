@@ -1,7 +1,7 @@
 module Base {
 item Hat_Bandana {
 Type = Clothing,
-DisplayName = Bandana (Head),
+DisplayName = Bandana - Patterned,
 ClothingItem = Hat_Bandana,
 BodyLocation = Hat,
 IconsForTexture = BandanaBlack;BandanaBlue;BandanaRed,
@@ -13,7 +13,7 @@ Insulation = 0.10,
 }
 item Hat_BandanaTINT {
 Type = Clothing,
-DisplayName = Bandana (Head),
+DisplayName = Bandana - Plain,
 ClothingItem = Hat_BandanaTINT,
 BodyLocation = Hat,
 Icon = BandanaBlack,
@@ -25,7 +25,7 @@ Insulation = 0.10,
 }
 item Hat_Beany {
 Type = Clothing,
-DisplayName = Beanie Hat,
+DisplayName = Beanie,
 ClothingItem = Hat_Beany,
 BodyLocation = Hat,
 Icon = BeanieGeneric,
@@ -48,7 +48,7 @@ BloodLocation = Head,
 }
 item Hat_BicycleHelmet {
 Type = Clothing,
-DisplayName = Bicycle Helmet,
+DisplayName = Helmet - Bicycle,
 ClothingItem = Hat_BicycleHelmet,
 BodyLocation = Hat,
 Icon = HelmetBicycleWhite,
@@ -58,9 +58,10 @@ Insulation = 0.25,
 WindResistance = 0.15,
 BloodLocation = Head,
 }
+// TODO: Colorize if not already
 item Hat_CrashHelmet {
 Type = Clothing,
-DisplayName = Crash Helmet,
+DisplayName = Helmet - Crash,
 ClothingItem = Hat_CrashHelmet,
 BodyLocation = Hat,
 Icon = HelmetCrash,
@@ -86,7 +87,7 @@ WindResistance = 0.4,
 }
 item Hat_GolfHat {
 Type = Clothing,
-DisplayName = Tartan Golf Cap,
+DisplayName = Golf Cap - Tartan,
 ClothingItem = Hat_GolfHat,
 BodyLocation = Hat,
 IconsForTexture = HatGolfTartan;HatGolfWhitePlaid;HatGolfBluePlaid;HatGolfGreenPlaid,
@@ -104,7 +105,7 @@ ChanceToFall = 80,
 }
 item Hat_HockeyHelmet {
 Type = Clothing,
-DisplayName = Hockey Helmet,
+DisplayName = Helmet - Hockey,
 ClothingItem = Hat_HockeyHelmet,
 BodyLocation = Hat,
 Icon = HelmetHockeyBlack,
@@ -137,7 +138,7 @@ ChanceToFall = 80,
 }
 item Hat_BandanaTied {
 Type = Clothing,
-DisplayName = Bandana (Tied),
+DisplayName = Bandana - Patterned (Tied),
 ClothingItem = Hat_BandanaTied,
 BodyLocation = Hat,
 IconsForTexture = RamboBandanna_Black;RamboBandanna_Blue;RamboBandanna_Red,
@@ -149,7 +150,7 @@ Insulation = 0.10,
 }
 item Hat_BandanaTiedTINT {
 Type = Clothing,
-DisplayName = Bandana (Tied),
+DisplayName = Bandana - Plain (Tied),
 ClothingItem = Hat_BandanaTiedTINT,
 BodyLocation = Hat,
 ClothingItemExtra = Hat_BandanaTINT;Hat_BandanaMaskTINT,
@@ -173,7 +174,7 @@ WindResistance = 0.25,
 }
 item Hat_SantaHatGreen {
 Type = Clothing,
-DisplayName = Green Santa Hat,
+DisplayName = Santa Hat - Green,
 ClothingItem = Hat_SantaHAtGreen,
 BodyLocation = Hat,
 Icon = HatSantaGreen,
@@ -195,9 +196,10 @@ BloodLocation = Head,
 Insulation = 0.05,
 WindResistance = 0.05,
 }
+TODO: RTC
 item Hat_Army {
 Type = Clothing,
-DisplayName = Military Helmet,
+DisplayName = Helmet - Army,
 ClothingItem = Hat_Army,
 BodyLocation = Hat,
 Icon = HelmetArmyGreen,
@@ -209,6 +211,7 @@ ChanceToFall = 10,
 Insulation = 0.25,
 WaterResistance = 0.2,
 }
+NOTE: Colorized
 item Hat_ChefHat {
 Type = Clothing,
 DisplayName = Chef Hat,
@@ -218,6 +221,7 @@ Icon = ChefHat,
 CanHaveHoles = false,
 ChanceToFall = 80,
 }
+TODO: Colorize
 item Hat_EarMuff_Protectors {
 Type = Clothing,
 DisplayName = Ear Protectors,
@@ -230,6 +234,7 @@ BloodLocation = Head,
 Insulation = 0.35,
 WindResistance = 0.35,
 }
+TODO: RTC
 item Hat_Fireman {
 Type = Clothing,
 DisplayName = Firefighter Helmet,
@@ -245,6 +250,7 @@ Insulation = 0.65,
 WindResistance = 0.55,
 WaterResistance = 0.60,
 }
+NOTE: RTC
 item Hat_Raccoon {
 Type = Clothing,
 DisplayName = Raccoon Hat,
@@ -258,6 +264,7 @@ Insulation = 0.80,
 WindResistance = 0.75,
 WaterResistance = 0.35,
 }
+NOTE: Retextured, colorized
 item Hat_ShowerCap {
 Type = Clothing,
 DisplayName = Shower Cap,
@@ -267,9 +274,23 @@ Icon = Showercap,
 CanHaveHoles = false,
 ChanceToFall = 80,
 }
-item Hat_BonnieHat_CamoGreen {
+TODO: Retexture, colorize
+item Hat_BonnieHat {
 Type = Clothing,
 DisplayName = Bonnie Hat,
+ClothingItem = Hat_BonnieHat,
+BodyLocation = Hat,
+Icon = HatBonnieGreen,
+CanHaveHoles = false,
+ChanceToFall = 80,
+BloodLocation = Head,
+Insulation = 0.5,
+WindResistance = 0.3,
+}
+NOTE: Retextured, colorized
+item Hat_BonnieHat_CamoGreen {
+Type = Clothing,
+DisplayName = Bonnie Hat - Camo,
 ClothingItem = Hat_BonnieHat_CamoGreen,
 BodyLocation = Hat,
 Icon = HatBonnieCamo,
@@ -279,6 +300,7 @@ BloodLocation = Head,
 Insulation = 0.5,
 WindResistance = 0.3,
 }
+NOTE: Retextured, colorized
 item Hat_PeakedCapArmy {
 Type = Clothing,
 DisplayName = Peaked Army Cap,
@@ -291,6 +313,7 @@ BloodLocation = Head,
 Insulation = 0.15,
 WindResistance = 0.1,
 }
+NOTE: Colorized
 item Hat_WeddingVeil {
 Type = Clothing,
 DisplayName = Wedding Veil,
@@ -300,6 +323,7 @@ Icon = VeilWedding,
 CanHaveHoles = false,
 ChanceToFall = 80,
 }
+//TODO: Add More options
 item Hat_WinterHat {
 Type = Clothing,
 DisplayName = Winter Hat,
@@ -313,7 +337,7 @@ Insulation = 1.0,
 WindResistance = 1.0,
 WaterResistance = 0.5,
 }
-
+// NOTE: Consolidated options under this one
 item Hat_BaseballCap {
 Type = Clothing,
 DisplayName = Baseball Cap,
@@ -337,6 +361,7 @@ IconsForTexture = BaseballCapRed;BaseballCapGreen;BaseballCapBlue,
 CanHaveHoles = false,
 Insulation = 0.10,
 }
+// TODO: Retexturize this to be a solid colorized version
 item Hat_BaseballCapBlue {
 Type = Clothing,
 DisplayName = Baseball Cap - Solid,
@@ -360,6 +385,9 @@ Icon = BaseballCapBlue,
 CanHaveHoles = false,
 Insulation = 0.10,
 }
+// TODO: Use BaseballCapGreen item xml to make a solid-colored KY hat
+
+// NOTE: Consolidate all KY colors under this
 item Hat_BaseballCapKY {
 Type = Clothing,
 DisplayName = KY Baseball Cap,
@@ -384,9 +412,10 @@ CanHaveHoles = false,
 ChanceToFall = 80,
 Insulation = 0.10,
 }
+// TODO: Replace texture, colorize
 item Hat_BaseballHelmet_KY {
 Type = Clothing,
-DisplayName = Kentucky Baseball Helmet,
+DisplayName = Helmet - Kentucky Baseball,
 ClothingItem = Hat_BaseballHelmet_KY,
 BodyLocation = Hat,
 Icon = HelmetBaseballRed,
@@ -398,9 +427,10 @@ ScratchDefense = 100,
 ChanceToFall = 10,
 Insulation = 0.3,
 }
+// TODO: Consolidate the teams under this one
 item Hat_BaseballHelmet_Rangers {
 Type = Clothing,
-DisplayName = Riverside Rangers Baseball Helmet,
+DisplayName = Helmet - Riverside Rangers Baseball,
 ClothingItem = Hat_BaseballHelmet_Rangers,
 BodyLocation = Hat,
 Icon = HelmetBaseballGreen,
@@ -412,9 +442,10 @@ ScratchDefense = 100,
 ChanceToFall = 10,
 Insulation = 0.3,
 }
+//TODO: Remove this item
 item Hat_BaseballHelmet_Z {
 Type = Clothing,
-DisplayName = Z Hurricanes Baseball Helmet,
+DisplayName = Helmet - Z Hurricanes Baseball,
 ClothingItem = Hat_BaseballHelmet_Z,
 BodyLocation = Hat,
 Icon = HelmetBaseballBlue,
@@ -428,7 +459,7 @@ Insulation = 0.3,
 }
 item Hat_BeretArmy {
 Type = Clothing,
-DisplayName = Army Beret,
+DisplayName = Beret - Army,
 ClothingItem = Hat_BeretArmy,
 BodyLocation = Hat,
 Icon = BeretGreen,
@@ -437,6 +468,7 @@ ChanceToFall = 80,
 Insulation = 0.3,
 BloodLocation = Head,
 }
+// TODO: Reduce opptions, colorize
 item Hat_Cowboy {
 Type = Clothing,
 DisplayName = Cowboy Hat,
@@ -451,7 +483,7 @@ BloodLocation = Head,
 }
 item Hat_CrashHelmet_Police {
 Type = Clothing,
-DisplayName = Police Motorcycle Helmet,
+DisplayName = Helmet - Crash (Police),
 ClothingItem = Hat_CrashHelmet_Police,
 BodyLocation = Hat,
 BloodLocation = FullHelmet,
@@ -466,7 +498,7 @@ WindResistance = 0.8,
 }
 item Hat_CrashHelmet_Stars {
 Type = Clothing,
-DisplayName = USA Crash Helmet,
+DisplayName = Helmet - Crash (USA),
 ClothingItem = Hat_CrashHelmet_Stars,
 BodyLocation = Hat,
 Icon = HelmetMotorcycleFlag,
@@ -481,7 +513,7 @@ WindResistance = 0.8,
 }
 item Hat_FastFood {
 Type = Clothing,
-DisplayName = Fast Food Server Hat,
+DisplayName = Server's Hat - Fast Food,
 ClothingItem = Hat_FastFood,
 BodyLocation = Hat,
 IconsForTexture = CookHatBlack;CookHatBlue;CookHatGreen;CookHatRed;ChefHat;CookHatYellow,
@@ -490,7 +522,7 @@ ChanceToFall = 80,
 }
 item Hat_FastFood_IceCream {
 Type = Clothing,
-DisplayName = Ice Cream Server Hat,
+DisplayName = Server's Hat - Ice Cream,
 ClothingItem = Hat_FastFood_IceCream,
 BodyLocation = Hat,
 Icon = CookHatIceCream,
@@ -499,13 +531,14 @@ ChanceToFall = 80,
 }
 item Hat_FastFood_Spiffo {
 Type = Clothing,
-DisplayName = Spiffo's Server Hat,
+DisplayName = Server's Hat - Spiffo,
 ClothingItem = Hat_FastFood_SPiffo,
 BodyLocation = Hat,
 Icon = CookHatSpiffo,
 CanHaveHoles = false,
 ChanceToFall = 80,
 }
+// NOTE: Consolidated delmonte into this one
 item Hat_Fedora {
 Type = Clothing,
 DisplayName = Fedora,
@@ -517,6 +550,7 @@ BloodLocation = Head,
 Insulation = 0.15,
 WindResistance = 0.1,
 }
+// NOTE: Colorized this
 item Hat_Fedora_Delmonte {
 Type = Clothing,
 DisplayName = Fedora - Colors,
@@ -528,12 +562,13 @@ BloodLocation = Head,
 Insulation = 0.15,
 WindResistance = 0.1,
 }
+// NOTE: removed options, made colorful
 item Hat_HardHat {
 Type = Clothing,
 DisplayName = Hard Hat,
 ClothingItem = Hat_HardHat,
 BodyLocation = Hat,
-IconsForTexture = HardHatYellow;HardHatBlue;HardHatRed;HardHatWhite,
+Icon = HardHatWhite,
 CanHaveHoles = false,
 BloodLocation = Head,
 BiteDefense = 100,
@@ -543,9 +578,10 @@ Insulation = 0.15,
 WindResistance = 0.25,
 WaterResistance = 0.5,
 }
+// NOTE: consolidated six items into one, removed the rest
 item Hat_JockeyHelmet01 {
 Type = Clothing,
-DisplayName = Jockey Helmet,
+DisplayName = Helmet - Jockey,
 ClothingItem = Hat_JockeyHelmet01,
 BodyLocation = Hat,
 Icon = HelmetJockeyBlue;HelmetJockeyRed;HelmetJockeyGreen;HelmetJockeyPurple;HelmetJockeyYellow;HelmetJockeyOrange,
@@ -555,9 +591,10 @@ BiteDefense = 100,
 ScratchDefense = 100,
 ChanceToFall = 10,
 }
+// TODO: Add colorful flat hat, hide the rest
 item Hat_Police {
 Type = Clothing,
-DisplayName = Police Trooper Hat,
+DisplayName = Flat Hat - Trooper,
 ClothingItem = Hat_Police,
 BodyLocation = Hat,
 Icon = HatPoliceBlue,
@@ -567,7 +604,7 @@ WaterResistance = 0.2,
 }
 item Hat_Police_Grey {
 Type = Clothing,
-DisplayName = Police Deputy Hat,
+DisplayName = Flat Hat - Deputy,
 ClothingItem = Hat_Police_Grey,
 BodyLocation = Hat,
 Icon = HatPoliceGrey,
@@ -577,7 +614,7 @@ WaterResistance = 0.2,
 }
 item Hat_Ranger {
 Type = Clothing,
-DisplayName = Ranger Hat,
+DisplayName = Flat Hat - Ranger,
 ClothingItem = Hat_Ranger,
 BodyLocation = Hat,
 Icon = HatRanger,
@@ -588,9 +625,10 @@ Insulation = 0.45,
 WindResistance = 0.40,
 WaterResistance = 0.25,
 }
+// NOTE: adjusted texture and made colorful
 item Hat_RidingHelmet {
 Type = Clothing,
-DisplayName = Riding Helmet,
+DisplayName = Helmet - Riding,
 ClothingItem = Hat_RidingHelmet,
 BodyLocation = Hat,
 Icon = HelmetCrash,
@@ -600,21 +638,24 @@ BiteDefense = 100,
 ScratchDefense = 100,
 ChanceToFall = 10,
 }
+// TODO: Remove pink/striped versions and make this colorful
 item Hat_SummerHat {
 Type = Clothing,
 DisplayName = Summer Hat,
 ClothingItem = Hat_SummerHat,
 BodyLocation = Hat,
-IconsForTexture = HatSummerYellow;HatSummerPink;HatSummerStriped,
+Icon = HatSummerYellow,
+//IconsForTexture = HatSummerYellow;HatSummerPink;HatSummerStriped,
 CanHaveHoles = false,
 ChanceToFall = 80,
 BloodLocation = Head,
 Insulation = 0.1,
 WindResistance = 0.1,
 }
+// NOTE: made this colorful, no more blue version item
 item Hat_SurgicalCap_Green {
 Type = Clothing,
-DisplayName = Medical Cap,
+DisplayName = Surfical Cap,
 ClothingItem = Hat_SurgicalCap_Green,
 BodyLocation = Hat,
 Icon = SurgicalCapGreen,

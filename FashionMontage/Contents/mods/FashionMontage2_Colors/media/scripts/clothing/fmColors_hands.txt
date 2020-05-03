@@ -1,7 +1,7 @@
 module Base {
 item Gloves_FingerlessGloves {
 Type = Clothing,
-DisplayName = Fingerless Gloves,
+DisplayName = Gloves - Fingerless,
 ClothingItem = Gloves_FingerlessGloves,
 BodyLocation = Hands,
 BloodLocation = Hands,
@@ -12,7 +12,7 @@ WindResistance = 0.3,
 }
 item Gloves_WhiteTINT {
 Type = Clothing,
-DisplayName = Gloves,
+DisplayName = Gloves - Winter,
 ClothingItem = Gloves_WhiteTINT,
 BodyLocation = Hands,
 BloodLocation = Hands,
@@ -24,7 +24,7 @@ FabricType = Cotton,
 }
 item Gloves_LongWomenGloves {
 Type = Clothing,
-DisplayName = Long Gloves,
+DisplayName = Gloves - Long,
 ClothingItem = Gloves_LongWomenGloves,
 BodyLocation = Hands,
 BloodLocation = Hands,
@@ -32,6 +32,33 @@ Icon = GlovesLongBlack,
 Weight = 0.1,
 Insulation = 0.5,
 WindResistance = 0.5,
+FabricType = Cotton,
+}item Gloves_LeatherGlovesBlack {
+Type = Clothing,
+DisplayName = Leather Gloves - Dyed,
+ClothingItem = Gloves_LeatherGlovesBlack,
+BodyLocation = Hands,
+BloodLocation = Hands,
+Icon = GlovesLeatherBlackpng,
+ScratchDefense = 30,
+BiteDefense = 15,
+Weight = 0.1,
+Insulation = 0.75,
+WindResistance = 0.75,
+FabricType = Cotton,
+}
+item Gloves_LeatherGlovesBlack {
+Type = Clothing,
+DisplayName = Leather Gloves - Dyed,
+ClothingItem = Gloves_LeatherGlovesBlack,
+BodyLocation = Hands,
+BloodLocation = Hands,
+Icon = GlovesLeatherBlackpng,
+ScratchDefense = 30,
+BiteDefense = 15,
+Weight = 0.1,
+Insulation = 0.75,
+WindResistance = 0.75,
 FabricType = Cotton,
 }
 item Gloves_LeatherGloves {
@@ -47,19 +74,5 @@ Weight = 0.1,
 Insulation = 0.75,
 WindResistance = 0.75,
 FabricType = Leather,
-}
-item Gloves_LeatherGlovesBlack {
-Type = Clothing,
-DisplayName = Leather Gloves - Dyed,
-ClothingItem = Gloves_LeatherGlovesBlack,
-BodyLocation = Hands,
-BloodLocation = Hands,
-Icon = GlovesLeatherBlackpng,
-ScratchDefense = 30,
-BiteDefense = 15,
-Weight = 0.1,
-Insulation = 0.75,
-WindResistance = 0.75,
-FabricType = Cotton,
 }
 }

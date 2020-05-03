@@ -1,0 +1,35 @@
+module Base {
+item Boilersuit_BlueRed {
+Type = Clothing,
+DisplayName = Coveralls - Engineering,
+ClothingItem = Boilersuit_BlueRed,
+BodyLocation = FullSuit,
+BloodLocation = Trousers;Jumper,
+IconsForTexture = BoilerSuitBlue;BoilerSuitRed,
+RunSpeedModifier = 0.9,
+ScratchDefense = 10,
+Insulation = 0.65,
+WindResistance = 0.45,
+}
+item Boilersuit_Flying {
+Type = Clothing,
+DisplayName = Coveralls - Airforce,
+ClothingItem = Boilersuit_Flying,
+BodyLocation = FullSuit,
+Icon = BoilerSuitGreen,
+BloodLocation = Trousers;Jumper,
+RunSpeedModifier = 0.9,
+ScratchDefense = 10,
+Insulation = 0.75,
+WindResistance = 0.55,
+}
+item Belt2 {
+Weight = 0.2
+Type = Clothing
+DisplayName = Belt
+Icon = Belt
+BodyLocation = Belt
+ClothingItem = Belt
+AttachmentsProvided = SmallBeltLeft;SmallBeltRight
+}
+}

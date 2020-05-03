@@ -1,17 +1,7 @@
 module Base {
-item Dress_Knees {
-Type = Clothing,
-DisplayName = Knee-length Dress,
-ClothingItem = Dress_Knees,
-BodyLocation = Dress,
-BloodLocation = ShortsShort;Shirt,
-Icon = DressShortWhite,
-Insulation = 0.15,
-WindResistance = 0.1,
-}
 item Dress_Long {
 Type = Clothing,
-DisplayName = Long Dress,
+DisplayName = Dress - Ankle,
 ClothingItem = Dress_Long,
 BodyLocation = Dress,
 BloodLocation = Trousers;Shirt,
@@ -23,7 +13,7 @@ WindResistance = 0.2,
 item Dress_Normal {
 Type = Clothing,
 DisplayName = Dress,
-ClothingItem = Dress_Normal,
+ClothingItem = Dress - Calf,
 BodyLocation = Dress,
 BloodLocation = Trousers;Shirt,
 Icon = DressMediumWhite,
@@ -31,9 +21,19 @@ RunSpeedModifier = 0.93,
 Insulation = 0.20,
 WindResistance = 0.15,
 }
+item Dress_Knees {
+Type = Clothing,
+DisplayName = Dress - Knee,
+ClothingItem = Dress_Knees,
+BodyLocation = Dress,
+BloodLocation = ShortsShort;Shirt,
+Icon = DressShortWhite,
+Insulation = 0.15,
+WindResistance = 0.1,
+}
 item Dress_Short {
 Type = Clothing,
-DisplayName = Short Dress,
+DisplayName = Dress - Thigh,
 ClothingItem = Dress_Short,
 BodyLocation = Dress,
 BloodLocation = ShortsShort;Shirt,

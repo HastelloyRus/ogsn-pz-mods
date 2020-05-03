@@ -1,7 +1,7 @@
 module Base {
 item Glasses_Normal {
 Type = Clothing,
-DisplayName =  Glasses,
+DisplayName =  Glasses - Normal,
 ClothingItem = Glasses_Normal,
 BodyLocation = Eyes,
 IconsForTexture = GlassesBlack,
@@ -14,6 +14,24 @@ DisplayName =  Glasses - Reading,
 ClothingItem = Glasses_Reading,
 BodyLocation = Eyes,
 IconsForTexture = GlassesReading,
+Weight = 0.1,
+ChanceToFall = 50,
+}
+item Glasses_Sun {
+Type = Clothing,
+DisplayName = Glasses - Sun,
+ClothingItem = Glasses_Sun,
+BodyLocation = Eyes,
+Icon = GlassesSun,
+Weight = 0.1,
+ChanceToFall = 50,
+}
+item Glasses_Aviators {
+Type = Clothing,
+DisplayName = Glasses - Sun (Aviators),
+ClothingItem = Glasses_Aviators,
+BodyLocation = Eyes,
+Icon = GlassesAviator,
 Weight = 0.1,
 ChanceToFall = 50,
 }
@@ -35,15 +53,6 @@ Icon = ShootingGlasses,
 Weight = 0.1,
 ChanceToFall = 20,
 }
-item Glasses_SkiGoggles {
-Type = Clothing,
-DisplayName =  Goggles - Skiing (Light),
-ClothingItem = Glasses_SkiGoggles,
-BodyLocation = Eyes,
-IconsForTexture = SkiGogglesWhite,
-Weight = 0.1,
-ChanceToFall = 20,
-}
 item Glasses {
 Type = Clothing,
 DisplayName = Goggles - Skiing (Dark),
@@ -53,31 +62,22 @@ Icon = SkiGogglesBlack,
 Weight = 0.1,
 ChanceToFall = 20,
 }
+item Glasses_SkiGoggles {
+Type = Clothing,
+DisplayName =  Goggles - Skiing (Light),
+ClothingItem = Glasses_SkiGoggles,
+BodyLocation = Eyes,
+IconsForTexture = SkiGogglesWhite,
+Weight = 0.1,
+ChanceToFall = 20,
+}
 item Glasses_SwimmingGoggles {
 Type = Clothing,
-DisplayName = Swimming Goggles,
+DisplayName = Goggles - Swimming,
 ClothingItem = Glasses_SwimmingGoggles,
 BodyLocation = Eyes,
 Icon = SwimmingGoggles,
 Weight = 0.1,
 ChanceToFall = 30,
-}
-item Glasses_Aviators {
-Type = Clothing,
-DisplayName = Aviator Glasses,
-ClothingItem = Glasses_Aviators,
-BodyLocation = Eyes,
-Icon = GlassesAviator,
-Weight = 0.1,
-ChanceToFall = 50,
-}
-item Glasses_Sun {
-Type = Clothing,
-DisplayName = Sunglasses,
-ClothingItem = Glasses_Sun,
-BodyLocation = Eyes,
-Icon = GlassesSun,
-Weight = 0.1,
-ChanceToFall = 50,
 }
 }
