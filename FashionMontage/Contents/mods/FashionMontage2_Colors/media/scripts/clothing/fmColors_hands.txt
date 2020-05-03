@@ -48,7 +48,7 @@ Insulation = 0.75,
 WindResistance = 0.75,
 FabricType = Leather,
 }
-item Gloves_LeatherGlovesBlack { // this is colorful now
+item Gloves_LeatherGlovesBlack {
 Type = Clothing,
 DisplayName = Leather Gloves - Dyed,
 ClothingItem = Gloves_LeatherGlovesBlack,

@@ -7,7 +7,6 @@ BodyLocation = Mask,
 Icon = SurgicalMaskGreen,
 CanHaveHoles = false,
 }
-
 item Hat_DustMask {
 Type = Clothing,
 DisplayName = Dust Mask,
@@ -19,7 +18,6 @@ BloodLocation = Head,
 Insulation = 0.6,
 WindResistance = 0.5,
 }
-
 item Hat_BalaclavaFace {
 Type = Clothing,
 DisplayName = Open Balaclava,

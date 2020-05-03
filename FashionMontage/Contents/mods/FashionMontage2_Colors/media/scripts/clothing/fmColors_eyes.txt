@@ -8,7 +8,6 @@ IconsForTexture = GlassesBlack,
 Weight = 0.1,
 ChanceToFall = 50,
 }
-
 item Glasses_Reading {
 Type = Clothing,
 DisplayName =  Glasses - Reading,

@@ -195,7 +195,6 @@ BloodLocation = Head,
 Insulation = 0.05,
 WindResistance = 0.05,
 }
-
 item Hat_Army {
 Type = Clothing,
 DisplayName = Military Helmet,

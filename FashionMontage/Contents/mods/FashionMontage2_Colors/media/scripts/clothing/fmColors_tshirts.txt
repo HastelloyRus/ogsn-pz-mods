@@ -149,7 +149,6 @@ Insulation = 0.2,
 WindResistance = 0.05,
 FabricType = Cotton,
 }
-
 item Tshirt_PoliceBlue {
 Type = Clothing,
 DisplayName = Police Trooper T-Shirt,
@@ -171,7 +170,6 @@ Insulation = 0.2,
 WindResistance = 0.25,
 FabricType = Cotton,
 }
-
 item Tshirt_Ranger {
 Type = Clothing,
 DisplayName = Ranger T-Shirt,

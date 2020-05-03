@@ -26,7 +26,6 @@ Insulation = 0.75,
 WindResistance = 0.75,
 WaterResistance = 0.75,
 }
-
 item Hat_CrashHelmetFULL {
 Type = Clothing,
 DisplayName = Motorcycle Helmet,
@@ -90,5 +89,4 @@ Insulation = 0.70,
 WindResistance = 0.70,
 WaterResistance = 1.0,
 }
-
 }

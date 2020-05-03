@@ -32,7 +32,6 @@ Insulation = 0.25,
 WindResistance = 0.15,
 FabricType = Cotton,
 }
-
 item Shirt_Baseball_KY {
 Type = Clothing,
 DisplayName = Kentucky Baseball Shirt,

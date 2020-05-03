@@ -52,8 +52,6 @@ BiteDefense = 10,
 Insulation = 0.4,
 WindResistance = 0.25,
 }
-}
-module Base {
 item Shoes_Slippers {
 Type = Clothing,
 DisplayName = Slippers,
@@ -83,8 +81,6 @@ ScratchDefense = 10,
 Insulation = 0.35,
 WindResistance = 0.25,
 }
-}
-module Base {
 item Shoes_RidingBoots {
 Type = Clothing,
 DisplayName = Riding Boots,

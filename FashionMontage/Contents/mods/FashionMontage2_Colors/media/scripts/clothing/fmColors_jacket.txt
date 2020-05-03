@@ -13,7 +13,7 @@ Insulation = 0.60,
 WindResistance = 0.5,
 FabricType = Cotton,
 }
-item Jacket_Varsity2 { // incomplete, this needs a new GUID
+item Jacket_Varsity2 {
 Type = Clothing,
 DisplayName = Varsity Jacket,
 ClothingItem = Jacket_Varsity,

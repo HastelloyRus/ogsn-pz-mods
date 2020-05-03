@@ -23,7 +23,6 @@ ScratchDefense = 10,
 Insulation = 0.25,
 WindResistance = 0.1,
 }
-
 item Boilersuit {
 Type = Clothing,
 DisplayName = Coveralls,

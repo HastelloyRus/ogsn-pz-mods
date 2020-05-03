@@ -136,8 +136,6 @@ BloodLocation = Apron,
 Icon = ApronSpiffo,
 FabricType = Cotton,
 }
-}
-module Base {
 item Apron_White {
 Type = Clothing,
 DisplayName = Apron,
@@ -149,7 +147,7 @@ FabricType = Cotton,
 }
 item Apron_TacoDelPancho {
 Type = Clothing,
-DisplayName = Apron #2,
+DisplayName = Apron - 2,
 ClothingItem = Apron_White,
 BodyLocation = TorsoExtra,
 BloodLocation = Apron,
@@ -158,7 +156,7 @@ FabricType = Cotton,
 }
 item Apron_Black {
 Type = Clothing,
-DisplayName = Apron #3,
+DisplayName = Apron - 3,
 ClothingItem = Apron_Black,
 BodyLocation = TorsoExtra,
 BloodLocation = Apron,
@@ -174,8 +172,6 @@ BloodLocation = Apron,
 Icon = ApronWhite,
 FabricType = Cotton,
 }
-}
-module Base {
 item Vest_Waistcoat {
 Type = Clothing,
 DisplayName = Waistcoat,
