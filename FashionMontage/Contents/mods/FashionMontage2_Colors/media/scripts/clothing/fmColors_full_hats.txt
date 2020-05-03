@@ -1,7 +1,7 @@
 module Base {
 item Hat_FootballHelmet {
 Type = Clothing,
-DisplayName = Helmet - Football
+DisplayName = Helmet - Football,
 ClothingItem = Hat_FootballHelmet,
 BodyLocation = FullHat,
 Icon = HelmetFootballWhite,
