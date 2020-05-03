@@ -14,40 +14,40 @@ BodyLocation = Neck,
 Icon = TieBowBlack,
 Weight = 0.1,
 }
-//TODO: Add the spiffo to this
+//NOTE: Added the spiffo to this
 item Tie_Full {
 Type = Clothing,
 DisplayName = Tie,
 ClothingItem = Tie_Full,
 BodyLocation = Neck,
-IconsForTexture = TieBlack;TieBlue;TieBlueDot;TieBlueStripe;TieMulticolour;TieRed;TieRedDot;TieRedStripe,
+IconsForTexture = TieBlack;TieBlue;TieBlueDot;TieBlueStripe;TieMulticolour;TieRed;TieRedDot;TieRedStripe;TieSpiffo,
 Weight = 0.1,
 }
-//TODO: Add the spiffo to this
+//NOTE: Added the spiffo to this
 item Tie_Worn {
 Type = Clothing,
 DisplayName = Tie (Clip-on),
 ClothingItem = Tie_Worn,
 BodyLocation = Neck,
-IconsForTexture = TieBlack;TieBlue;TieBlueDot;TieBlueStripe;TieMulticolour;TieRed;TieRedDot;TieRedStripe,
+IconsForTexture = TieBlack;TieBlue;TieBlueDot;TieBlueStripe;TieMulticolour;TieRed;TieRedDot;TieRedStripe;TieSpiffo,
 Weight = 0.1,
 }
-//TODO: Make this a colorful version of the full version
+//NOTE: Made this a colorful version of the full version
 item Tie_Full_Spiffo {
 Type = Clothing,
 DisplayName = Tie - Spiffo,
 ClothingItem = Tie_Full_Spiffo,
 BodyLocation = Neck,
-Icon = TieSpiffo,
+Icon = TieMulticolour,
 Weight = 0.1,
 }
-//TODO: Make this a colorful version of the full version
+//NOTE: Made this a colorful version of the full version
 item Tie_Worn_Spiffo {
 Type = Clothing,
 DisplayName = Tie - Spiffo (Clip-On),
 ClothingItem = Tie_Worn_Spiffo,
 BodyLocation = Neck,
-Icon = TieSpiffo,
+Icon = TieMulticolour,
 Weight = 0.1,
 }
 }
