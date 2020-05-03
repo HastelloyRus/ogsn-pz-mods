@@ -15,7 +15,7 @@ WindResistance = 0.45,
 FabricType = Cotton,
 WaterResistance = 0.55,
 }
-//NOTE: this now carries all three kinds of camo
+// NOTE: this now carries all three kinds of camo
 item Jacket_ArmyCamoGreen {
 Type = Clothing,
 DisplayName = Camo Jacket - Army,
@@ -34,7 +34,7 @@ FabricType = Cotton,
 WaterResistance = 0.45,
 Weight = 2,
 }
-//NOTE: This is now the colorful version
+// NOTE: This is now the colorful version
 item Jacket_ArmyCamoDesert {
 Type = Clothing,
 DisplayName = Camo Jacket - Colorful,
@@ -85,7 +85,7 @@ WindResistance = 0.85,
 WaterResistance = 0.8,
 Weight = 3,
 }
-//NOTE: This is still a short leather jacket but now has brown and green options
+// NOTE: This is still a short leather jacket but now has brown and green options
 item Jacket_Black {
 Type = Clothing,
 DisplayName = Leather Jacket,
@@ -104,7 +104,7 @@ FabricType = Leather,
 WaterResistance = 0.4,
 Weight = 2,
 }
-//NOTE: Short colorful leather jacket, made from repurposed jockey 3 shirt
+// NOTE: Short colorful leather jacket, made from repurposed jockey 3 shirt
 item JacketLeatherColor_Short {
 Type = Clothing,
 DisplayName = Leather Jacket - Dyed,
@@ -141,7 +141,7 @@ FabricType = Leather,
 WaterResistance = 0.45,
 Weight = 2,
 }
-//NOTE: Long colorful leather jacket, made from repurposed jockey 2 shirt
+// NOTE: Long colorful leather jacket, made from repurposed jockey 2 shirt
 item JacketLeatherColor_Long {
 Type = Clothing,
 DisplayName = Long Leather Jacket - Dyed,
@@ -281,7 +281,7 @@ Insulation = 0.9,
 WindResistance = 0.6,
 Weight = 3,
 }
-//NOTE: Base item is now colorful, RGB defined below to hopefully be normal for zeds
+// NOTE: Base item is now colorful, RGB defined below to hopefully be normal for zeds
 item Suit_Jacket {
 Type = Clothing,
 DisplayName = Suit Jacket,
@@ -334,7 +334,7 @@ Insulation = 0.60,
 WindResistance = 0.5,
 FabricType = Cotton,
 }
-// TODO: This needs its own new xml
+//TODO: This needs its own new xml
 item Jacket_Varsity2 {
 Type = Clothing,
 DisplayName = Varsity Jacket - Light,
