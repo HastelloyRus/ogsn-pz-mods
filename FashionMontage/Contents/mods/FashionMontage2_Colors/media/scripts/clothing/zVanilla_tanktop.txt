@@ -1,4 +1,4 @@
-module DistinctNames { imports {Base}
+module Base {
 item Vest_DefaultTEXTURE {
 Type = Clothing,
 DisplayName = Tank Top,

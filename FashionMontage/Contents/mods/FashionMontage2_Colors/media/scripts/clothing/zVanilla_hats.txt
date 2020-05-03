@@ -1,4 +1,4 @@
-module DistinctNames { imports {Base}
+module Base {
 //TODO: Retexture, colorize
 item Hat_Bandana {
 Type = Clothing,

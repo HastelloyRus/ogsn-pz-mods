@@ -1,4 +1,4 @@
-module DistinctNames { imports {Base}
+module Base {
 item Shoes_ArmyBoots {
 Type = Clothing,
 DisplayName = Military Boots,
