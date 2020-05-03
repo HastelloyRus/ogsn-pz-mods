@@ -19,7 +19,7 @@ local listTshirt = {
   "DistinctNames.Tshirt_Sport",
   "DistinctNames.Tshirt_ArmyGreen",
   "DistinctNames.Tshirt_CamoGreen",
-  "DistinctNames.Tshirt_CamoUrban", 
+  "DistinctNames.Tshirt_CamoUrban",
   "DistinctNames.Tshirt_Fossoil",
   "DistinctNames.Tshirt_Gas2Go",
   "DistinctNames.Tshirt_McCoys",

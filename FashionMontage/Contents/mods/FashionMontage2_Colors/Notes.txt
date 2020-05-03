@@ -5,13 +5,14 @@ Get rid of rock shirt
 Sport T-shirt doesn't let you manually change
 Military t-shirt has no choices, decals, anything
 green camo tee doesn't let you choose
-urban camo tee has wrong name, and could probably use a better texture for colors
+urban camo tee could probably use a better texture for colors
 
 
 Pants
 Make denim pants the rainbow one
 Player doesn't need "military pants" they're just pants
-rainbow camo has the wrong name (urban), but looks good
 
-Army Camo Pants are invisible, but no error messages.
- 
+
+Next Step:
+Change the lua so that you can cycle between baseTextures in the same way that you can cycle through textureChoices
+Add color palette picker
