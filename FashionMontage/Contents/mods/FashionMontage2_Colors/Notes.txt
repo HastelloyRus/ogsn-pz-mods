@@ -11,6 +11,7 @@ urban camo tee has wrong name, and could probably use a better texture for color
 Pants
 Make denim pants the rainbow one
 Player doesn't need "military pants" they're just pants
-Desert camo still has its own line item
-camo pants don't let you choose, and one of the random rolls is generating an error
 rainbow camo has the wrong name (urban), but looks good
+
+Army Camo Pants are invisible, but no error messages.
+ 
