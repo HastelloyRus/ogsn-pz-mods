@@ -1,4 +1,32 @@
 module Base {
+item Hat_NBCmask {
+Type = Clothing,
+DisplayName = Nuclear Biochemical Mask,
+ClothingItem = Hat_NBCmask,
+BodyLocation = FullHat,
+BloodLocation = Head,
+Icon = NBCMask,
+CanHaveHoles = false,
+BiteDefense = 100,
+ScratchDefense = 100,
+Insulation = 0.50,
+WindResistance = 0.65,
+WaterResistance = 1.0,
+}
+item Hat_Spiffo {
+Type = Clothing,
+DisplayName = Spiffo Suit Head,
+ClothingItem = Hat_Spiffo,
+BodyLocation = FullHat,
+Icon = SpiffoHead,
+CanHaveHoles = false,
+ChanceToFall = 10,
+BloodLocation = Head,
+Insulation = 0.75,
+WindResistance = 0.75,
+WaterResistance = 0.75,
+}
+
 item Hat_CrashHelmetFULL {
 Type = Clothing,
 DisplayName = Motorcycle Helmet,
