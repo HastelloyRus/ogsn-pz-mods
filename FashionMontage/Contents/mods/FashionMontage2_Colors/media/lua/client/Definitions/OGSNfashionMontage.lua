@@ -227,11 +227,11 @@ local listTorso1Legs1 = {
   "DistinctNames.LongJohns",
 }
 local listNeck = {
-  -- "DistinctNames.Tie_BowTieFull",
+  "DistinctNames.Tie_BowTieFull",
   -- "DistinctNames.Tie_BowTieWorn",
-  -- "DistinctNames.Tie_Full",
+  "DistinctNames.Tie_Full",
   -- "DistinctNames.Tie_Worn",
-  -- "DistinctNames.Tie_Full_Spiffo",
+  "DistinctNames.Tie_Full_Spiffo",
   -- "DistinctNames.Tie_Worn_Spiffo",
 }
 local listHands = {
@@ -263,7 +263,7 @@ local listJacket = {
   "DistinctNames.Jacket_ArmyCamoDesert",
   "DistinctNames.Jacket_Chef",
   "DistinctNames.Jacket_Fireman",
-  -- "DistinctNames.Jacket_Black",
+  "DistinctNames.Jacket_Black",
   -- "DistinctNames.JacketLeatherColor_Short",
   "DistinctNames.JacketLong_Random",
   -- "DistinctNames.JacketLeatherColor_Long",
