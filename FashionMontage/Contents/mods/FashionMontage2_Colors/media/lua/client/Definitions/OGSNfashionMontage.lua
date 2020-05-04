@@ -198,22 +198,22 @@ local listBeltExtra = {
   "DistinctNames.HolsterDouble",
 }
 local listMask = {
-  -- "DistinctNames.Hat_BalaclavaFull",
-  -- "DistinctNames.Hat_BalaclavaFace",
-  -- "DistinctNames.Hat_BandanaMaskTINT",
+  "DistinctNames.Hat_BalaclavaFull",
+  "DistinctNames.Hat_BalaclavaFace",
   "DistinctNames.Hat_BandanaMask",
-  -- "DistinctNames.Hat_DustMask",
-  -- "DistinctNames.Hat_SurgicalMask_Green",
+  "DistinctNames.Hat_BandanaMaskTINT",
+  "DistinctNames.Hat_DustMask",
+  "DistinctNames.Hat_SurgicalMask_Green",
 }
 local listMaskEyes = {
-  -- "DistinctNames.Hat_GasMask",
-  -- "DistinctNames.WeldingMask",
+  "DistinctNames.Hat_GasMask",
+  "DistinctNames.WeldingMask",
 }
 local listUnderwear = {
   "DistinctNames.Bikini_TINT",
-  -- "DistinctNames.Bikini_Pattern01",
-  -- "DistinctNames.Swimsuit_TINT",
-  -- "DistinctNames.SwimTrunks_Blue",
+  "DistinctNames.Bikini_Pattern01",
+  "DistinctNames.Swimsuit_TINT",
+  "DistinctNames.SwimTrunks_Blue",
 }
 local listFullHat = {
   -- "DistinctNames.Hat_FootballHelmet",
