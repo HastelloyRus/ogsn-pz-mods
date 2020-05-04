@@ -82,7 +82,6 @@ local listPants = {
   "DistinctNames.TrousersMesh_DenimLight",
   -- "DistinctNames.Trousers_ArmyService",
   "DistinctNames.Trousers_CamoGreen",
-  -- "DistinctNames.Trousers_CamoDesert",
   "DistinctNames.Trousers_CamoUrban",
   -- "DistinctNames.Trousers_NavyBlue",
   "DistinctNames.Dungarees",
@@ -97,8 +96,8 @@ local listPants = {
   "DistinctNames.Trousers_Scrubs",
   "DistinctNames.Trousers_SuitWhite",
   "DistinctNames.Trousers_Padded",
-  "DistinctNames.Shorts_CamoGreenLong", -- This is all 'real' camo shorts
-  "DistinctNames.Shorts_CamoColorLong",
+  "DistinctNames.Shorts_CamoGreenLong",
+  "DistinctNames.Shorts_CamoColorLong", -- this is color camo long shorts
   "DistinctNames.Shorts_ShortDenim",
   "DistinctNames.Shorts_LongDenim",
   "DistinctNames.Shorts_ShortSport",
