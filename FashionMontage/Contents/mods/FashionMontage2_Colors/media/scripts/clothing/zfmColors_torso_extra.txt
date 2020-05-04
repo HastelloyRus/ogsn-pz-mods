@@ -11,7 +11,7 @@ FabricType = Cotton,
 item Apron_TacoDelPancho {
 Type = Clothing,
 DisplayName = Apron - Plain 2,
-ClothingItem = Apron_White,
+ClothingItem = Apron_TacoDelPancho,
 BodyLocation = TorsoExtra,
 BloodLocation = Apron,
 Icon = ApronWhite,
