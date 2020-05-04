@@ -313,7 +313,7 @@ function CharacterCreationMain:loadOutfit(box)
         if location[1] == "gender" then
           MainScreen.instance.charCreationHeader.genderCombo.selected = tonumber(options[1]);
           MainScreen.instance.charCreationHeader:onGenderSelected(MainScreen.instance.charCreationHeader.genderCombo);
-          -- desc:getWornItems():clear();
+          desc:getWornItems():clear();
         elseif location[1] == "skincolor" then
           self.colorPickerSkin.index = tonumber(options[1]);
           local color = luautils.split(options[2], ",");
@@ -784,9 +784,9 @@ function CharacterCreationMain:loadOutfit(box)
       local desc = MainScreen.instance.desc;
       local default = ClothingSelectionDefinitions.default;
       if MainScreen.instance.desc:isFemale() then
-        self:doClothingCombo(default.Female, false);
+        self:doClothingCombo(default.Female, true);
       else
-        self:doClothingCombo(default.Male, false);
+        self:doClothingCombo(default.Male, true);
       end
 
       local profession = ClothingSelectionDefinitions[desc:getProfession()];
