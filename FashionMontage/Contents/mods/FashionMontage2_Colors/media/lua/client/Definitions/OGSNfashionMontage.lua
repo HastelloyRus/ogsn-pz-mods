@@ -216,12 +216,12 @@ local listUnderwear = {
   "DistinctNames.SwimTrunks_Blue",
 }
 local listFullHat = {
-  -- "DistinctNames.Hat_FootballHelmet",
+  "DistinctNames.Hat_FootballHelmet",
   "DistinctNames.Hat_CrashHelmetFULL",
-  -- "DistinctNames.Hat_RiotHelmet",
-  -- "DistinctNames.Hat_SPHhelmet",
-  -- "DistinctNames.Hat_NBCmask",
-  -- "DistinctNames.Hat_Spiffo",
+  "DistinctNames.Hat_RiotHelmet",
+  "DistinctNames.Hat_SPHhelmet",
+  "DistinctNames.Hat_NBCmask",
+  "DistinctNames.Hat_Spiffo",
 }
 local listTorso1Legs1 = {
   "DistinctNames.LongJohns",
@@ -236,26 +236,26 @@ local listNeck = {
 }
 local listHands = {
   "DistinctNames.Gloves_FingerlessGloves",
-  -- "DistinctNames.Gloves_WhiteTINT",
-  -- "DistinctNames.Gloves_LongWomenGloves",
-  -- "DistinctNames.Gloves_LeatherGlovesBlack",
-  -- "DistinctNames.Gloves_LeatherGlovesBlack",
-  -- "DistinctNames.Gloves_LeatherGloves",
+  "DistinctNames.Gloves_WhiteTINT",
+  "DistinctNames.Gloves_LongWomenGloves",
+  "DistinctNames.Gloves_LeatherGlovesBlack",
+  "DistinctNames.Gloves_LeatherGlovesBlack",
+  "DistinctNames.Gloves_LeatherGloves",
 }
 local listLegs1 = {
   "DistinctNames.LongJohns_Bottoms",
 }
 local listSweater = {
   "DistinctNames.Jumper_DiamondPatternTINT",
-  -- "DistinctNames.Jumper_TankTopDiamondTINT",
-  -- "DistinctNames.HoodieDOWN_WhiteTINT",
-  -- "DistinctNames.Jumper_PoloNeck",
-  -- "DistinctNames.Jumper_RoundNeck",
-  -- "DistinctNames.Jumper_VNeck",
-  -- "DistinctNames.Jumper_TankTopTINT",
+  "DistinctNames.Jumper_TankTopDiamondTINT",
+  "DistinctNames.HoodieDOWN_WhiteTINT",
+  "DistinctNames.Jumper_PoloNeck",
+  "DistinctNames.Jumper_RoundNeck",
+  "DistinctNames.Jumper_VNeck",
+  "DistinctNames.Jumper_TankTopTINT",
 }
 local listSweaterHat = {
-  -- "DistinctNames.HoodieUP_WhiteTINT",
+  "DistinctNames.HoodieUP_WhiteTINT",
 }
 local listJacket = {
   -- "DistinctNames.Jacket_CoatArmy",
@@ -281,59 +281,59 @@ local listJacket = {
 }
 local listJacketHat = {
   "DistinctNames.Jacket_Padded",
-  -- "DistinctNames.PonchoYellow",
+  "DistinctNames.PonchoYellow",
 }
 local listFullSuit = {
-  -- "DistinctNames.Boilersuit",
-  -- "DistinctNames.Boilersuit_Prisoner",
-  -- "DistinctNames.Boilersuit_PrisonerKhaki",
-  -- "DistinctNames.SpiffoSuit",
-  -- "DistinctNames.WeddingDress",
+  "DistinctNames.Boilersuit",
+  "DistinctNames.Boilersuit_Prisoner",
+  "DistinctNames.Boilersuit_PrisonerKhaki",
+  "DistinctNames.SpiffoSuit",
+  "DistinctNames.WeddingDress",
 }
 local listFullSuitHead = {
-  -- "DistinctNames.HazmatSuit",
+  "DistinctNames.HazmatSuit",
 }
 local listFullTop = {
-  -- "DistinctNames.Ghillie_Top",
+  "DistinctNames.Ghillie_Top",
 }
 local listBathRobe = {
-  -- "DistinctNames.LongCoat_Bathrobe",
+  "DistinctNames.LongCoat_Bathrobe",
 }
 local listTorsoExtra = {
-  -- "DistinctNames.Apron_White",
-  -- "DistinctNames.Apron_TacoDelPancho",
-  -- "DistinctNames.Apron_Black",
-  -- "DistinctNames.Apron_WhiteTEXTURE",
-  -- "DistinctNames.Apron_IceCream",
-  -- "DistinctNames.Apron_PileOCrepe",
-  -- "DistinctNames.Apron_PizzaWhirled",
-  -- "DistinctNames.Apron_Spiffos",
-  -- "DistinctNames.Vest_BulletCivilian",
-  -- "DistinctNames.Vest_BulletPolice",
-  -- "DistinctNames.Vest_BulletArmy",
-  -- "DistinctNames.Vest_Waistcoat",
-  -- "DistinctNames.Vest_Waistcoat_GigaMart",
-  -- "DistinctNames.Vest_Foreman",
-  -- "DistinctNames.Vest_HighViz",
-  -- "DistinctNames.Vest_Hunting_Grey",
-  -- "DistinctNames.Vest_Hunting_Orange",
-  -- "DistinctNames.Vest_Hunting_Camo",
-  -- "DistinctNames.Vest_Hunting_CamoGreen",
+  "DistinctNames.Apron_White",
+  "DistinctNames.Apron_TacoDelPancho",
+  "DistinctNames.Apron_Black",
+  "DistinctNames.Apron_WhiteTEXTURE",
+  "DistinctNames.Apron_IceCream",
+  "DistinctNames.Apron_PileOCrepe",
+  "DistinctNames.Apron_PizzaWhirled",
+  "DistinctNames.Apron_Spiffos",
+  "DistinctNames.Vest_BulletCivilian",
+  "DistinctNames.Vest_BulletPolice",
+  "DistinctNames.Vest_BulletArmy",
+  "DistinctNames.Vest_Waistcoat",
+  "DistinctNames.Vest_Waistcoat_GigaMart",
+  "DistinctNames.Vest_Foreman",
+  "DistinctNames.Vest_HighViz",
+  "DistinctNames.Vest_Hunting_Grey",
+  "DistinctNames.Vest_Hunting_Orange",
+  "DistinctNames.Vest_Hunting_Camo",
+  "DistinctNames.Vest_Hunting_CamoGreen",
 }
 local listTail = {
-  -- "DistinctNames.SpiffoTail",
+  "DistinctNames.SpiffoTail",
 }
 local listBack = {
-  -- "DistinctNames.Bag_ALICEpack_Army",
-  -- "DistinctNames.Bag_ALICEpack",
-  -- "DistinctNames.Bag_BigHikingBag",
-  -- "DistinctNames.Bag_NormalHikingBag",
-  -- "DistinctNames.Bag_DuffelBagTINT",
-  -- "DistinctNames.Bag_Schoolbag",
+  "DistinctNames.Bag_ALICEpack_Army",
+  "DistinctNames.Bag_ALICEpack",
+  "DistinctNames.Bag_BigHikingBag",
+  "DistinctNames.Bag_NormalHikingBag",
+  "DistinctNames.Bag_DuffelBagTINT",
+  "DistinctNames.Bag_Schoolbag",
 }
 local listScarf = {
-  -- "DistinctNames.Scarf_White",
-  -- "DistinctNames.Scarf_StripeBlackWhite",
+  "DistinctNames.Scarf_White",
+  "DistinctNames.Scarf_StripeBlackWhite",
 }
 
 ClothingSelectionDefinitions.default.Male.Hat = {chance = 10, items = listHat}
