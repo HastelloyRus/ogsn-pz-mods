@@ -172,7 +172,7 @@ function ISColorPicker:new(x, y, HSBFactor)
 	local buttonSize = 20
 	local borderSize = 12
 	local columns = 18
-	local rows = 14
+	local rows = 12
 	local width = columns * buttonSize + borderSize * 2
 	local height = rows * buttonSize + borderSize * 2
 	local o = ISPanelJoypad.new(self, x, y, width, height)
@@ -188,8 +188,8 @@ function ISColorPicker:new(x, y, HSBFactor)
 	local i = 0
 	local newColor = Color.new(1.0, 1.0, 1.0, 1.0);
 	for red = 0,255,51 do
-		for green = 0,255,42.5 do
-			for blue = 0,255,42.5 do
+		for green = 0,255,51 do
+			for blue = 0,255,51 do
 				local col = i % columns
 				local row = math.floor(i / columns)
 				if row % 2 == 0 then row = row / 2 else row = math.floor(row / 2) + 6 end
