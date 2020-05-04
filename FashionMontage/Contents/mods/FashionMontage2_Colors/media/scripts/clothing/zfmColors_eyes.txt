@@ -53,21 +53,21 @@ Icon = ShootingGlasses,
 Weight = 0.1,
 ChanceToFall = 20,
 }
-item Glasses {
-Type = Clothing,
-DisplayName = Goggles - Skiing (Dark),
-ClothingItem = Glasses,
-BodyLocation = Eyes,
-Icon = SkiGogglesBlack,
-Weight = 0.1,
-ChanceToFall = 20,
-}
 item Glasses_SkiGoggles {
 Type = Clothing,
-DisplayName =  Goggles - Skiing (Light),
+DisplayName =  Goggles - Skiing (Dark),
 ClothingItem = Glasses_SkiGoggles,
 BodyLocation = Eyes,
 IconsForTexture = SkiGogglesWhite,
+Weight = 0.1,
+ChanceToFall = 20,
+}
+item Glasses {
+Type = Clothing,
+DisplayName = Goggles - Skiing (Light),
+ClothingItem = Glasses,
+BodyLocation = Eyes,
+Icon = SkiGogglesBlack,
 Weight = 0.1,
 ChanceToFall = 20,
 }
