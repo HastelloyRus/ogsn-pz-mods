@@ -117,7 +117,7 @@ local listShirt = {
   "DistinctNames.Shirt_Lumberjack",
   "DistinctNames.Shirt_Scrubs",
   "DistinctNames.Shirt_Ranger",
-  "DistinctNames.Shirt_OfficerWhite",
+  -- "DistinctNames.Shirt_OfficerWhite",
   "DistinctNames.Shirt_PoliceBlue",
   "DistinctNames.Shirt_PoliceGrey",
   "DistinctNames.Shirt_PrisonGuard",
@@ -153,10 +153,10 @@ local listPants = {
   "DistinctNames.Shorts_CamoColorLong", -- this is color camo long shorts
   "DistinctNames.Shorts_ShortDenim",
   "DistinctNames.Shorts_LongDenim",
+  "DistinctNames.Shorts_LongDenimColors", --"DistinctNames.Shorts_LongSport_Red",
   "DistinctNames.Shorts_ShortSport",
   "DistinctNames.Shorts_LongSport",
-  "DistinctNames.Shorts_LongSport_Red",
-  "DistinctNames.Trousers_Black",
+  -- "DistinctNames.Trousers_Black",
 }
 local listSkirt = {
   "DistinctNames.Skirt_Knees",
@@ -174,7 +174,8 @@ local listDress = {
 local listShoes = {
   "DistinctNames.Shoes_ArmyBoots",
   "DistinctNames.Shoes_ArmyBootsDesert",
-  "DistinctNames.Shoes_Random",
+  "DistinctNames.Shoes_Black",
+  "DistinctNames.Shoes_Brown",
   "DistinctNames.Shoes_Slippers",
   "DistinctNames.Shoes_TrainerTINT",
   "DistinctNames.Shoes_RidingBoots",
