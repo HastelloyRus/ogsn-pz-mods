@@ -168,7 +168,7 @@ WaterResistance = 0.2,
 }
 item Hat_Police_Grey {
 Type = Clothing,
-DisplayName = Flat Hat - Deputy,
+DisplayName = Flat Hat - Colors,
 ClothingItem = Hat_Police_Grey,
 BodyLocation = Hat,
 Icon = HatPoliceGrey,
