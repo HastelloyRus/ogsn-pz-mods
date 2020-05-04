@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <outfitManager>
-	<!-- <m_FemaleOutfits>
+	<m_FemaleOutfits>
 		<m_Name>AirCrew</m_Name>
 		<m_Guid>9b25cc65-021d-458e-9d7a-395026ce2371</m_Guid>
 		<m_Pants>false</m_Pants>
@@ -44,7 +44,7 @@
 		</m_items>
 		<m_items>
 			<probability>0.5</probability>
-			<itemGUID>Jacket_NavyBlue_GUID</itemGUID>
+			<itemGUID>0ab6a4b8-4dcf-4ee0-9e5a-c6304652568a_GUID</itemGUID>
 		</m_items>
 		<m_items>
 			<itemGUID>ac7976de-2c73-44ea-9392-5d24ac1fb649</itemGUID>
@@ -2567,7 +2567,7 @@
 		</m_items>
 		<m_items>
 			<probability>0.5</probability>
-			<itemGUID>Jacket_NavyBlue_GUID</itemGUID>
+			<itemGUID>0ab6a4b8-4dcf-4ee0-9e5a-c6304652568a_GUID</itemGUID>
 		</m_items>
 		<m_items>
 			<itemGUID>ac7976de-2c73-44ea-9392-5d24ac1fb649</itemGUID>
@@ -5435,5 +5435,5 @@
 			<probability>0.1</probability>
 			<itemGUID>6d702d88-4ca0-4bcb-9aee-d88f2be29e69</itemGUID>
 		</m_items>
-	</m_MaleOutfits> -->
+	</m_MaleOutfits>
 </outfitManager>
