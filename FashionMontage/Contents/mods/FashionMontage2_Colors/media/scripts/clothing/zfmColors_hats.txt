@@ -1,5 +1,4 @@
 module DistinctNames { imports {Base}
-//TODO: Retexture, colorize
 item Hat_Bandana {
 Type = Clothing,
 DisplayName = Bandana - Patterned,
@@ -83,7 +82,6 @@ BloodLocation = Head,
 Insulation = 0.5,
 WindResistance = 0.3,
 }
-// NOTE: Retextured, colorized
 item Hat_BonnieHat_CamoGreen {
 Type = Clothing,
 DisplayName = Bonnie Hat - Camo,
@@ -96,7 +94,6 @@ BloodLocation = Head,
 Insulation = 0.5,
 WindResistance = 0.3,
 }
-// NOTE: Colorized
 item Hat_ChefHat {
 Type = Clothing,
 DisplayName = Chef Hat,
@@ -118,7 +115,6 @@ BloodLocation = Head,
 Insulation = 0.4,
 WindResistance = 0.4,
 }
-//TODO: Colorize
 item Hat_EarMuff_Protectors {
 Type = Clothing,
 DisplayName = Ear Protectors,
@@ -131,7 +127,6 @@ BloodLocation = Head,
 Insulation = 0.35,
 WindResistance = 0.35,
 }
-// NOTE: Consolidated delmonte into this one
 item Hat_Fedora {
 Type = Clothing,
 DisplayName = Fedora,
@@ -143,7 +138,6 @@ BloodLocation = Head,
 Insulation = 0.15,
 WindResistance = 0.1,
 }
-// NOTE: Colorized this
 item Hat_Fedora_Delmonte {
 Type = Clothing,
 DisplayName = Fedora - Colors,
@@ -155,7 +149,6 @@ BloodLocation = Head,
 Insulation = 0.15,
 WindResistance = 0.1,
 }
-//TODO: Add colorful flat hat, hide the rest
 item Hat_Police {
 Type = Clothing,
 DisplayName = Flat Hat - Trooper,
@@ -189,7 +182,6 @@ Insulation = 0.45,
 WindResistance = 0.40,
 WaterResistance = 0.25,
 }
-// NOTE: removed options, made colorful
 item Hat_HardHat {
 Type = Clothing,
 DisplayName = Hard Hat,
@@ -205,7 +197,6 @@ Insulation = 0.15,
 WindResistance = 0.25,
 WaterResistance = 0.5,
 }
-//TODO: RTC
 item Hat_Army {
 Type = Clothing,
 DisplayName = Helmet - Army,
@@ -220,7 +211,6 @@ ChanceToFall = 10,
 Insulation = 0.25,
 WaterResistance = 0.2,
 }
-//TODO: Replace texture, colorize
 item Hat_BaseballHelmet_KY {
 Type = Clothing,
 DisplayName = Helmet - Baseball Kentucky,
@@ -235,7 +225,6 @@ ScratchDefense = 100,
 ChanceToFall = 10,
 Insulation = 0.3,
 }
-//TODO: Consolidate the teams under this one
 item Hat_BaseballHelmet_Rangers {
 Type = Clothing,
 DisplayName = Helmet - Baseball Riverside Rangers,
@@ -250,7 +239,6 @@ ScratchDefense = 100,
 ChanceToFall = 10,
 Insulation = 0.3,
 }
-//TODO: Remove this item
 item Hat_BaseballHelmet_Z {
 Type = Clothing,
 DisplayName = Helmet - Baseball Z Hurricanes,
@@ -277,7 +265,6 @@ Insulation = 0.25,
 WindResistance = 0.15,
 BloodLocation = Head,
 }
-//TODO: Colorize if not already
 item Hat_CrashHelmet {
 Type = Clothing,
 DisplayName = Helmet - Crash,
@@ -322,7 +309,6 @@ ChanceToFall = 10,
 Insulation = 0.8,
 WindResistance = 0.8,
 }
-//TODO: RTC
 item Hat_Fireman {
 Type = Clothing,
 DisplayName = Helmet - Firefighter,
@@ -422,7 +408,6 @@ item Hat_JockeyHelmet06 {
     ScratchDefense = 100,
     ChanceToFall = 10,
 }
-// NOTE: adjusted texture and made colorful
 item Hat_RidingHelmet {
 Type = Clothing,
 DisplayName = Helmet - Riding,
@@ -453,7 +438,6 @@ IconsForTexture = HatGolfTartan;HatGolfWhitePlaid;HatGolfBluePlaid;HatGolfGreenP
 CanHaveHoles = false,
 ChanceToFall = 80,
 }
-// NOTE: Retextured, colorized
 item Hat_ShowerCap {
 Type = Clothing,
 DisplayName = Shower Cap,
@@ -463,7 +447,6 @@ Icon = Showercap,
 CanHaveHoles = false,
 ChanceToFall = 80,
 }
-// NOTE: Retextured, colorized
 item Hat_PeakedCapArmy {
 Type = Clothing,
 DisplayName = Peaked Army Cap,
@@ -476,7 +459,6 @@ BloodLocation = Head,
 Insulation = 0.15,
 WindResistance = 0.1,
 }
-// NOTE: Colorized
 item Hat_WeddingVeil {
 Type = Clothing,
 DisplayName = Wedding Veil,
@@ -486,7 +468,6 @@ Icon = VeilWedding,
 CanHaveHoles = false,
 ChanceToFall = 80,
 }
-//TODO: Add More options
 item Hat_WinterHat {
 Type = Clothing,
 DisplayName = Winter Hat,
@@ -500,7 +481,6 @@ Insulation = 1.0,
 WindResistance = 1.0,
 WaterResistance = 0.5,
 }
-// NOTE: Consolidated options under this one
 item Hat_BaseballCap {
 Type = Clothing,
 DisplayName = Baseball Cap,
@@ -524,7 +504,6 @@ IconsForTexture = BaseballCapRed;BaseballCapGreen;BaseballCapBlue,
 CanHaveHoles = false,
 Insulation = 0.10,
 }
-//TODO: Retexturize this to be a solid colorized version
 item Hat_BaseballCapSolid {
 Type = Clothing,
 DisplayName = Baseball Cap - Solid,
@@ -548,8 +527,6 @@ Icon = BaseballCapBlue,
 CanHaveHoles = false,
 Insulation = 0.10,
 }
-//TODO: Use BaseballCapGreen item xml to make a solid-colored KY hat
-// NOTE: Consolidate all KY colors under this
 item Hat_BaseballCapKY {
 Type = Clothing,
 DisplayName = KY Baseball Cap,
@@ -585,7 +562,6 @@ ChanceToFall = 80,
 Insulation = 0.3,
 BloodLocation = Head,
 }
-//TODO: Reduce opptions, colorize
 item Hat_Cowboy {
 Type = Clothing,
 DisplayName = Cowboy Hat,
@@ -625,7 +601,6 @@ Icon = CookHatSpiffo,
 CanHaveHoles = false,
 ChanceToFall = 80,
 }
-// NOTE: RTC
 item Hat_Raccoon {
 Type = Clothing,
 DisplayName = Raccoon Hat,
@@ -675,7 +650,6 @@ BloodLocation = Head,
 Insulation = 0.05,
 WindResistance = 0.05,
 }
-//TODO: Remove pink/striped versions and make this colorful
 item Hat_SummerHat {
 Type = Clothing,
 DisplayName = Summer Hat,
@@ -689,7 +663,6 @@ BloodLocation = Head,
 Insulation = 0.1,
 WindResistance = 0.1,
 }
-// NOTE: made this colorful, no more blue version item
 item Hat_SurgicalCap_Green {
 Type = Clothing,
 DisplayName = Medical Cap,

@@ -334,7 +334,6 @@ Insulation = 0.60,
 WindResistance = 0.5,
 FabricType = Cotton,
 }
-//TODO: This needs its own new xml
 item Jacket_Varsity2 {
 Type = Clothing,
 DisplayName = Varsity Jacket - Light,
