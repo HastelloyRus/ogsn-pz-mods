@@ -263,7 +263,7 @@ local listJacket = {
   "DistinctNames.Jacket_ArmyCamoDesert",
   "DistinctNames.Jacket_Chef",
   "DistinctNames.Jacket_Fireman",
-  -- "DistinctNames.Jacket_Black",
+  "DistinctNames.Jacket_Black",
   -- "DistinctNames.JacketLeatherColor_Short",
   "DistinctNames.JacketLong_Random",
   -- "DistinctNames.JacketLeatherColor_Long",
