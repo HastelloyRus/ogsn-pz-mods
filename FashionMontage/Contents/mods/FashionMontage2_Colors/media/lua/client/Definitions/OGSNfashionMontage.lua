@@ -174,7 +174,7 @@ local listDress = {
 local listShoes = {
   "DistinctNames.Shoes_ArmyBoots",
   "DistinctNames.Shoes_ArmyBootsDesert",
-  "DistinctNames.Shoes_Black",
+  -- "DistinctNames.Shoes_Black",
   "DistinctNames.Shoes_Brown",
   "DistinctNames.Shoes_Slippers",
   "DistinctNames.Shoes_TrainerTINT",
