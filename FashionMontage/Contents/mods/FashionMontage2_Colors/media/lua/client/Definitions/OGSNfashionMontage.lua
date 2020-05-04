@@ -269,15 +269,15 @@ local listJacket = {
   -- "DistinctNames.JacketLeatherColor_Long",
   "DistinctNames.JacketLong_Doctor",
   "DistinctNames.Jacket_PaddedDOWN",
-  -- "DistinctNames.PonchoYellowDOWN",
+  "DistinctNames.PonchoYellowDOWN",
   "DistinctNames.Jacket_Police",
   "DistinctNames.Jacket_Ranger",
   "DistinctNames.JacketLong_Santa",
   "DistinctNames.JacketLong_SantaGreen",
   "DistinctNames.Suit_Jacket",
   "DistinctNames.WeddingJacket",
-  -- "DistinctNames.Jacket_Varsity",
-  -- "DistinctNames.Jacket_Varsity2",
+  "DistinctNames.Jacket_Varsity",
+  "DistinctNames.Jacket_Varsity2",
 }
 local listJacketHat = {
   "DistinctNames.Jacket_Padded",
