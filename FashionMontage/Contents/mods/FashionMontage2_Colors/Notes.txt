@@ -3,28 +3,11 @@ Pilot helmet looks okay but opportunity for crazy shit
 
 
 
-Workman shirt should not be in player list
-Denim shirt should be rainbow
-Lumberjack shirt should be rainbow
-medical scrub shirt rainbow
-Undo jockey shirt changes entirely - will need to assign the new jackets different xml
-restore camo shirt choices - may need to assign the colorful version a new xml (or just make the urban version colorful)
 
 
 Tshirt
-Undo changes to pro baseball shirts (it should be three items again)
-If 'sport' tees were separate items, restore those too
-restore camo shirt choices - may need to assign the colorful version a new xml (or just make the urban version colorful)
 give profession shirts a decal (or choice thereof), a white base, and color selectable
-medical scrub tee needs colors
 
-
-Pants
-Make denim jeans rainbow
-Player doesn't need "military pants" they're just pants
-doesn't need navy pants
-suit pants - make rainbow (should be fine now)
-med scrubs are currently the prof one, not rainbow
 
 
 Next Step:
