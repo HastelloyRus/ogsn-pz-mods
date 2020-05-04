@@ -333,6 +333,19 @@ WindResistance = 0.3,
 FabricType = Cotton,
 WaterResistance = 0.3,
 }
+// NOTE: This GUID was taken from the camo desert pants
+item Shorts_CamoColorLong {
+Type = Clothing,
+DisplayName = Shorts - Army Camo,
+ClothingItem = Trousers_CamoDesert,
+BodyLocation = Pants,
+Icon = TrousersCamoGreen,
+BloodLocation = Trousers,
+Insulation = 0.5,
+WindResistance = 0.3,
+FabricType = Cotton,
+WaterResistance = 0.3,
+}
 item Shorts_ShortDenim {
 Type = Clothing,
 DisplayName = Shorts - Denim,
