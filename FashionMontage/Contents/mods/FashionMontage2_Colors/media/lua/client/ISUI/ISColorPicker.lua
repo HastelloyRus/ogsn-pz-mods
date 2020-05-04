@@ -186,22 +186,13 @@ function ISColorPicker:new(x, y, HSBFactor)
 
 	o.colors = {}
 	local i = 0
-	local newColor = Color.new(1.0, 1.0, 1.0, 1.0);
 	for red = 0,255,51 do
 		for green = 0,255,51 do
 			for blue = 0,255,51 do
 				local col = i % columns
 				local row = math.floor(i / columns)
 				if row % 2 == 0 then row = row / 2 else row = math.floor(row / 2) + 6 end
-				newColor:set(red / 255, green / 255, blue / 255, 1.0)
-				if col == columns-1 and row == rows-1 then
-					-- Pure white
-					newColor:set(1.0, 1.0, 1.0, 1.0)
-				elseif HSBFactor then
-					newColor:changeHSBValue(HSBFactor.h, HSBFactor.s, HSBFactor.b);
-				end
---				o.colors[col + row * columns + 1] = { r = red/255, g = green/255, b = blue/255 }
-				o.colors[col + row * columns + 1] = { r = newColor:getRedFloat(), g = newColor:getGreenFloat(), b = newColor:getBlueFloat() }
+				o.colors[col + row * columns + 1] = { r = red/255, g = green/255, b = blue/255 }
 				i = i + 1
 			end
 		end
