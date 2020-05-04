@@ -8,18 +8,9 @@ BloodLocation = Apron,
 Icon = ApronWhite,
 FabricType = Cotton,
 }
-item Apron_TacoDelPancho {
-Type = Clothing,
-DisplayName = Apron - Plain 2,
-ClothingItem = Apron_TacoDelPancho,
-BodyLocation = TorsoExtra,
-BloodLocation = Apron,
-Icon = ApronWhite,
-FabricType = Cotton,
-}
 item Apron_Black {
 Type = Clothing,
-DisplayName = Apron - Plain 3,
+DisplayName = Apron - Plain 2,
 ClothingItem = Apron_Black,
 BodyLocation = TorsoExtra,
 BloodLocation = Apron,
