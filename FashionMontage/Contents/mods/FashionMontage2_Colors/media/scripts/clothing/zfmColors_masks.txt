@@ -24,7 +24,7 @@ WindResistance = 0.8,
 }
 item Hat_BandanaMaskTINT {
 Type = Clothing,
-DisplayName = Bandana (Face),
+DisplayName = Bandana - Plain (Face),
 ClothingItem = Hat_BandanaMaskTINT,
 BodyLocation = Mask,
 ClothingItemExtra = Hat_BandanaTINT;Hat_BandanaTiedTINT,
