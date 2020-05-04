@@ -525,7 +525,7 @@ CanHaveHoles = false,
 Insulation = 0.10,
 }
 //TODO: Retexturize this to be a solid colorized version
-item Hat_BaseballCapBlue {
+item Hat_BaseballCapSolid {
 Type = Clothing,
 DisplayName = Baseball Cap - Solid,
 ClothingItem = Hat_BaseballCapBlue,
@@ -537,9 +537,9 @@ CanHaveHoles = false,
 ChanceToFall = 80,
 Insulation = 0.10,
 }
-item Hat_BaseballCapBlue_Reverse {
+item Hat_BaseballCapSolid_Reverse {
 Type = Clothing,
-DisplayName = Baseball Cap,
+DisplayName = Baseball Cap - Solid,
 ClothingItem = Hat_BaseballCapBlue_Reverse,
 ClothingItemExtra = Hat_BaseballCapBlue,
 ClothingItemExtraOption = ReverseCap,
