@@ -140,7 +140,7 @@ Weight = 2,
 item JacketLeatherColor_Long {
 Type = Clothing,
 DisplayName = Long Leather Jacket - Dyed,
-ClothingItem = Tshirt_Rock,
+ClothingItem = Hat_SurgicalMask_Blue,
 BodyLocation = Jacket,
 IconsForTexture = JacketGreen,
 BloodLocation = LongJacket,
