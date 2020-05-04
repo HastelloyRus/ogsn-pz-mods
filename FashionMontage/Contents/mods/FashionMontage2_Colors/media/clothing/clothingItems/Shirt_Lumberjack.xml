@@ -6,9 +6,10 @@
 	<m_Static>false</m_Static>
 	<m_AllowRandomTint>false</m_AllowRandomTint>
 	<m_AttachBone></m_AttachBone>
-	<m_BaseTextures>clothes\shirt_tshirt_textures\shirt_lumberjackblue</m_BaseTextures>
+	<m_BaseTextures>clothes\shirt_tshirt_textures\shirt_lumberjackcolors</m_BaseTextures>
+	<!-- <m_BaseTextures>clothes\shirt_tshirt_textures\shirt_lumberjackblue</m_BaseTextures>
 	<m_BaseTextures>clothes\shirt_tshirt_textures\shirt_lumberjackgreen</m_BaseTextures>
 	<m_BaseTextures>clothes\shirt_tshirt_textures\shirt_lumberjackgrey</m_BaseTextures>
 	<m_BaseTextures>clothes\shirt_tshirt_textures\shirt_lumberjackred</m_BaseTextures>
-	<m_BaseTextures>clothes\shirt_tshirt_textures\shirt_lumberjackyellow</m_BaseTextures>
+	<m_BaseTextures>clothes\shirt_tshirt_textures\shirt_lumberjackyellow</m_BaseTextures> -->
 </clothingItem>

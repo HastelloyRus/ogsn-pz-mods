@@ -32,13 +32,6 @@ SwimTrunks_Red : e525cc52-cf30-45df-adc7-19706c019673
 SwimTrunks_Green : 01e4a480-9178-46aa-ad16-001580971665
 SwimTrunks_Yellow : 2587e4f8-1e7f-4793-ad11-dd4b96ea7359
 
-<!-- The jockey shirts now all fall under Shirt_Jockey01 aka 65e37ef2-a58e-4c76-b4aa-272ad4546677-->
-Shirt_Jockey02 : 5b1bd1bf-d8a3-498f-bd72-4240420fd9c2 : Now used as colorful Long Leather
-Shirt_Jockey03 : 1ea53e74-d1c3-4d51-9197-97fa64857fe1 : Now used as colorful Short Leather Jacket
-Shirt_Jockey04 : e455a4a5-15c7-4a32-99a1-3f08950a549a
-Shirt_Jockey05 : 84d47569-4a26-465d-8e9a-8418deb33f0b
-Shirt_Jockey06 : b6373a7a-7404-4127-9da4-d603dd094236
-
 Shoes_RedTrainers : b6bb377a-6b18-407a-8e9f-edf949fb1fe1
 Shoes_BlueTrainers : 95047b8a-0248-46ad-af29-cde76530915b
 
@@ -54,9 +47,5 @@ Hat_BaseballCapKY_Red : ee133478-bfc7-4517-af9b-c9da2148d9fd
 
 Shoes_Black : 593bea3d-c127-4574-ac1e-2197dc56e486
 Shoes_Brown : c0a3a194-2ee9-4ce5-9d7a-aa1d5e031cea
-
-Tshirt_CamoDesert : 4200bb51-b2b7-4379-93fa-3036534c4295
-Trousers_camodesert: 94c07af5-2e55-4a1d-9637-6b2326578e7f
-shirt_camodesert: a9957692-c412-4270-83b9-f29692f6a881
 
 Jacket_NavyBlue : 0ab6a4b8-4dcf-4ee0-9e5a-c6304652568a

@@ -2,9 +2,9 @@
 <clothingItem>
 	<m_MaleModel></m_MaleModel>
 	<m_FemaleModel></m_FemaleModel>
-	<m_GUID>65e37ef2-a58e-4c76-b4aa-272ad4546677</m_GUID>
+	<m_GUID>84d47569-4a26-465d-8e9a-8418deb33f0b</m_GUID>
 	<m_Static>false</m_Static>
 	<m_AllowRandomTint>true</m_AllowRandomTint>
 	<m_AttachBone></m_AttachBone>
-	<m_BaseTextures>clothes\shirt_tshirt_textures\shirt_jockey01</m_BaseTextures>
+	<m_BaseTextures>clothes\shirt_tshirt_textures\shirt_jockey05</m_BaseTextures>
 </clothingItem>

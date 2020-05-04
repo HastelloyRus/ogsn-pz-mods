@@ -1,12 +1,17 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <clothingItem>
-	<m_MaleModel></m_MaleModel>
-	<m_FemaleModel></m_FemaleModel>
+  <!-- Now used as colorful Short Leather Jacket -->
+  <m_MaleModel>skinned\clothes\bob_jacket</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\kate_jacket</m_FemaleModel>
 	<m_GUID>c23a5490-4c9c-4338-8c9b-50d85ae4460c</m_GUID>
 	<m_Static>false</m_Static>
 	<m_AllowRandomHue>false</m_AllowRandomHue>
 	<m_AllowRandomTint>true</m_AllowRandomTint>
 	<m_AttachBone></m_AttachBone>
-	<m_DecalGroup>TShirtSport</m_DecalGroup>
-	<m_BaseTextures>clothingtshirt</m_BaseTextures>
+	<m_Masks>13</m_Masks>
+	<m_Masks>14</m_Masks>
+	<m_Masks>3</m_Masks>
+	<m_Masks>5</m_Masks>
+	<m_UnderlayMasksFolder>media/textures/Clothes/Jacket/Masks</m_UnderlayMasksFolder>
+	<m_BaseTextures>clothes\jacketlong\jacketlong_colors</m_BaseTextures>
 </clothingItem>
