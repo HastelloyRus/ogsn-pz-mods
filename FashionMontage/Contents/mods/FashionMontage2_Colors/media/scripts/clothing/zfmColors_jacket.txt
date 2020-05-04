@@ -104,7 +104,7 @@ Weight = 2,
 item JacketLeatherColor_Short {
 Type = Clothing,
 DisplayName = Leather Jacket - Dyed,
-ClothingItem = Tshirt_SportDECAL,
+ClothingItem = PonchoGreenDOWN,
 BodyLocation = Jacket,
 IconsForTexture = JacketGreen,
 BloodLocation = Jacket,
