@@ -152,22 +152,22 @@ BloodLocation = Head,
 Insulation = 0.15,
 WindResistance = 0.1,
 }
-item Hat_Police {
-Type = Clothing,
-DisplayName = Flat Hat - Trooper,
-ClothingItem = Hat_Police,
-BodyLocation = Hat,
-Icon = HatPoliceBlue,
-CanHaveHoles = false,
-ChanceToFall = 70,
-WaterResistance = 0.2,
-}
 item Hat_Police_Grey {
 Type = Clothing,
 DisplayName = Flat Hat - Colors,
 ClothingItem = Hat_Police_Grey,
 BodyLocation = Hat,
 Icon = HatPoliceGrey,
+CanHaveHoles = false,
+ChanceToFall = 70,
+WaterResistance = 0.2,
+}
+item Hat_Police {
+Type = Clothing,
+DisplayName = Flat Hat - Trooper,
+ClothingItem = Hat_Police,
+BodyLocation = Hat,
+Icon = HatPoliceBlue,
 CanHaveHoles = false,
 ChanceToFall = 70,
 WaterResistance = 0.2,
