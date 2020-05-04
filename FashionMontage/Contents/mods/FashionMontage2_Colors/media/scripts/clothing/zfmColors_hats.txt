@@ -668,7 +668,7 @@ WindResistance = 0.1,
 }
 item Hat_SurgicalCap_Green {
 Type = Clothing,
-DisplayName = Medical Cap,
+DisplayName = Surgical Cap,
 ClothingItem = Hat_SurgicalCap_Green,
 BodyLocation = Hat,
 Icon = SurgicalCapGreen,
