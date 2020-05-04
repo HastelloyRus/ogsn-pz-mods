@@ -498,7 +498,7 @@ Insulation = 0.10,
 }
 item Hat_BaseballCap_Reverse {
 Type = Clothing,
-DisplayName = Baseball Cap,
+DisplayName = Baseball Cap (Reverse),
 ClothingItem = Hat_BaseballCap_Reverse,
 ClothingItemExtra = Hat_BaseballCap,
 ClothingItemExtraOption = ReverseCap,
@@ -521,7 +521,7 @@ Insulation = 0.10,
 }
 item Hat_BaseballCapSolid_Reverse {
 Type = Clothing,
-DisplayName = Baseball Cap - Solid,
+DisplayName = Baseball Cap - Solid (Reverse),
 ClothingItem = Hat_BaseballCapBlue_Reverse,
 ClothingItemExtra = Hat_BaseballCapBlue,
 ClothingItemExtraOption = ReverseCap,
@@ -544,7 +544,7 @@ Insulation = 0.10,
 }
 item Hat_BaseballCapKY_Reverse {
 Type = Clothing,
-DisplayName = KY Baseball Cap,
+DisplayName = KY Baseball Cap (Reverse),
 ClothingItem = Hat_BaseballCapKY_Reverse,
 ClothingItemExtra = Hat_BaseballCapKY,
 ClothingItemExtraOption = ReverseCap,
